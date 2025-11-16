@@ -9,6 +9,62 @@
     <url><loc>https://www.supremevalves.in/resources.html</loc><lastmod>2025-01-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.supremevalves.in/contact.html</loc><lastmod>2025-01-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
     
+    <!-- FAQ Pages -->
+    <url>
+        <loc>https://www.supremevalves.in/faqs.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-types-selection.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-classes-ratings.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-materials.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-standards.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-applications.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-sizing-performance.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-actuators.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.supremevalves.in/faqs/valve-maintenance.html</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
     <!-- Product Pages -->
     <url><loc>https://www.supremevalves.in/products/gate-valve.html</loc><lastmod>2025-01-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
     <url><loc>https://www.supremevalves.in/products/globe-valve.html</loc><lastmod>2025-01-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
