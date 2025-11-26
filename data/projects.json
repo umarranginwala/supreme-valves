@@ -1,0 +1,228 @@
+{
+  "projects": [
+    {
+      "id": "petrochemical-refinery-saudi-arabia",
+      "title": "Petrochemical Refinery Expansion - Saudi Arabia",
+      "client": "Major Petrochemical Company",
+      "location": "Al Jubail, Saudi Arabia",
+      "year": "2024",
+      "category": "Oil & Gas",
+      "value": "₹2.5 Crore",
+      "duration": "6 months",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "shortDescription": "Supply of 500+ high-pressure valves for refinery expansion project",
+      "description": "Comprehensive valve supply package for a major petrochemical refinery expansion in Al Jubail, Saudi Arabia. Project included gate valves, globe valves, check valves, and safety relief valves in various materials and pressure classes.",
+      "scope": [
+        "Gate Valves: 200 units (2\" to 24\", Class 150 to 900)",
+        "Globe Valves: 150 units (1\" to 12\", Class 300 to 600)",
+        "Check Valves: 100 units (2\" to 20\", Class 150 to 600)",
+        "Safety Relief Valves: 50 units (1\" to 6\", ASME certified)"
+      ],
+      "materials": ["Carbon Steel ASTM A216 WCB", "Stainless Steel SS316", "Alloy Steel A217 WC6"],
+      "standards": ["API 6D", "API 600", "API 598", "ASME B16.34"],
+      "challenges": [
+        "Tight delivery schedule of 6 months",
+        "High-temperature service up to 450°C",
+        "Stringent quality requirements",
+        "Complete material traceability"
+      ],
+      "solutions": [
+        "Dedicated production line for the project",
+        "Weekly progress reports to client",
+        "Third-party inspection at every stage",
+        "EN 10204 3.1 certificates for all materials"
+      ],
+      "testimonial": {
+        "quote": "Supreme Valves delivered exceptional quality within the tight timeline. Their technical support and documentation were outstanding.",
+        "author": "Project Manager",
+        "company": "EPC Contractor"
+      }
+    },
+    {
+      "id": "water-treatment-plant-uae",
+      "title": "Desalination Plant - UAE",
+      "client": "Water Authority",
+      "location": "Dubai, UAE",
+      "year": "2024",
+      "category": "Water Treatment",
+      "value": "₹1.8 Crore",
+      "duration": "4 months",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "shortDescription": "Butterfly valves and check valves for 50 MGD desalination plant",
+      "description": "Supply of large diameter butterfly valves and check valves for a new 50 MGD desalination plant in Dubai. All valves designed for seawater service with enhanced corrosion resistance.",
+      "scope": [
+        "Butterfly Valves: 80 units (DN300 to DN1200, PN16)",
+        "Check Valves: 60 units (DN150 to DN800, PN16)",
+        "Gate Valves: 40 units (DN100 to DN600, PN16)"
+      ],
+      "materials": ["Nickel Aluminium Bronze", "Super Duplex Stainless Steel", "EPDM Seals"],
+      "standards": ["AWWA C504", "ISO 5752", "EN 558", "ASME B16.5"],
+      "challenges": [
+        "Seawater corrosion resistance",
+        "Large diameter valves (up to DN1200)",
+        "Strict quality control requirements",
+        "On-time delivery critical"
+      ],
+      "solutions": [
+        "NAB and Super Duplex materials for corrosion resistance",
+        "Factory acceptance testing witnessed by client",
+        "Hydrostatic testing as per AWWA standards",
+        "Dedicated logistics for large valves"
+      ],
+      "testimonial": {
+        "quote": "The quality of valves exceeded our expectations. Supreme Valves' expertise in seawater applications was evident.",
+        "author": "Chief Engineer",
+        "company": "Water Authority"
+      }
+    },
+    {
+      "id": "power-plant-india",
+      "title": "Thermal Power Plant - India",
+      "client": "State Power Corporation",
+      "location": "Gujarat, India",
+      "year": "2024",
+      "category": "Power Generation",
+      "value": "₹3.2 Crore",
+      "duration": "8 months",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "shortDescription": "High-temperature valves for 500 MW thermal power plant",
+      "description": "Complete valve package for a 500 MW thermal power plant including main steam, feedwater, and auxiliary systems. All valves designed for high-pressure, high-temperature service.",
+      "scope": [
+        "Gate Valves: 150 units (Class 600 to 2500)",
+        "Globe Valves: 120 units (Class 600 to 1500)",
+        "Check Valves: 80 units (Class 600 to 900)",
+        "Safety Valves: 40 units (ASME certified)"
+      ],
+      "materials": ["Alloy Steel A217 WC9", "Stainless Steel SS316", "Inconel Trim"],
+      "standards": ["ASME B16.34", "API 600", "API 602", "IBR Approved"],
+      "challenges": [
+        "High temperature up to 540°C",
+        "High pressure up to 170 bar",
+        "IBR certification required",
+        "Stringent NDT requirements"
+      ],
+      "solutions": [
+        "Chrome-Moly alloy steel for high temperature",
+        "IBR approved design and manufacturing",
+        "100% radiography and ultrasonic testing",
+        "Witnessed testing by IBR inspector"
+      ],
+      "testimonial": {
+        "quote": "Supreme Valves demonstrated excellent technical capability and delivered IBR-certified valves meeting all specifications.",
+        "author": "Project Director",
+        "company": "State Power Corporation"
+      }
+    },
+    {
+      "id": "chemical-plant-singapore",
+      "title": "Chemical Processing Plant - Singapore",
+      "client": "Multinational Chemical Company",
+      "location": "Jurong Island, Singapore",
+      "year": "2023",
+      "category": "Chemical Processing",
+      "value": "₹1.5 Crore",
+      "duration": "5 months",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "shortDescription": "Exotic alloy valves for corrosive chemical service",
+      "description": "Supply of specialized valves in exotic materials for handling highly corrosive chemicals. Project included ball valves, diaphragm valves, and lined valves.",
+      "scope": [
+        "Ball Valves: 100 units (SS904L, Hastelloy C)",
+        "Diaphragm Valves: 60 units (PTFE lined)",
+        "Globe Valves: 40 units (Titanium, Monel)"
+      ],
+      "materials": ["SS 904L", "Hastelloy C-276", "Titanium Grade 2", "PTFE Lining"],
+      "standards": ["ASME B16.34", "DIN 3202", "ISO 9001", "PED Certified"],
+      "challenges": [
+        "Highly corrosive media (acids, chlorides)",
+        "Zero leakage requirement",
+        "Material compatibility critical",
+        "Singapore regulatory compliance"
+      ],
+      "solutions": [
+        "Exotic alloys for corrosion resistance",
+        "Bubble-tight testing for zero leakage",
+        "Material compatibility charts provided",
+        "PED certification for European standards"
+      ],
+      "testimonial": {
+        "quote": "Supreme Valves' expertise in exotic materials and attention to detail ensured project success.",
+        "author": "Engineering Manager",
+        "company": "Chemical Company"
+      }
+    },
+    {
+      "id": "offshore-platform-australia",
+      "title": "Offshore Oil Platform - Australia",
+      "client": "Oil & Gas Operator",
+      "location": "North West Shelf, Australia",
+      "year": "2023",
+      "category": "Oil & Gas",
+      "value": "₹2.0 Crore",
+      "duration": "6 months",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "shortDescription": "Fire-safe valves for offshore platform",
+      "description": "Supply of fire-safe certified ball valves and gate valves for offshore oil platform. All valves designed for harsh marine environment and fire safety requirements.",
+      "scope": [
+        "Fire-Safe Ball Valves: 120 units (API 6FA certified)",
+        "Gate Valves: 80 units (API 6D certified)",
+        "Check Valves: 60 units (API 6D certified)"
+      ],
+      "materials": ["Super Duplex Stainless Steel", "Inconel 625", "NACE MR0175 Compliant"],
+      "standards": ["API 6D", "API 6FA", "API 598", "NACE MR0175", "ISO 10423"],
+      "challenges": [
+        "Fire-safe certification required",
+        "Sour service (H2S) environment",
+        "Marine corrosion resistance",
+        "Australian regulatory compliance"
+      ],
+      "solutions": [
+        "API 6FA fire testing certification",
+        "NACE MR0175 compliant materials",
+        "Super Duplex for marine environment",
+        "Complete traceability documentation"
+      ],
+      "testimonial": {
+        "quote": "The fire-safe valves from Supreme Valves met all stringent offshore requirements. Excellent quality and service.",
+        "author": "Operations Manager",
+        "company": "Oil & Gas Operator"
+      }
+    },
+    {
+      "id": "pharmaceutical-plant-canada",
+      "title": "Pharmaceutical Manufacturing - Canada",
+      "client": "Pharmaceutical Company",
+      "location": "Mississauga, Canada",
+      "year": "2023",
+      "category": "Pharmaceutical",
+      "value": "₹1.2 Crore",
+      "duration": "4 months",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "shortDescription": "Sanitary valves for pharmaceutical production",
+      "description": "Supply of sanitary ball valves and diaphragm valves for pharmaceutical manufacturing facility. All valves designed for clean-in-place (CIP) and steam-in-place (SIP) service.",
+      "scope": [
+        "Sanitary Ball Valves: 80 units (3-piece design)",
+        "Diaphragm Valves: 60 units (EPDM/PTFE)",
+        "Butterfly Valves: 40 units (Tri-clamp ends)"
+      ],
+      "materials": ["SS316L Electropolished", "EPDM FDA Approved", "PTFE Virgin Grade"],
+      "standards": ["ASME BPE", "3-A Sanitary", "FDA CFR 21", "cGMP Compliant"],
+      "challenges": [
+        "Sanitary design requirements",
+        "CIP/SIP compatibility",
+        "FDA compliance",
+        "Electropolish finish (Ra < 0.4 μm)"
+      ],
+      "solutions": [
+        "3-piece ball valves for easy maintenance",
+        "Electropolished to Ra 0.38 μm",
+        "FDA-approved elastomers",
+        "Complete material certifications"
+      ],
+      "testimonial": {
+        "quote": "Supreme Valves delivered pharmaceutical-grade valves meeting all FDA and cGMP requirements. Outstanding quality.",
+        "author": "Quality Manager",
+        "company": "Pharmaceutical Company"
+      }
+    }
+  ]
+}
