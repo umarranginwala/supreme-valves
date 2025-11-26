@@ -279,6 +279,16 @@
       "description": "Automated control valves for process automation.",
       "applications": ["HVAC Control", "Process Automation", "Flow Control"],
       "featured": true
+    },
+    {
+      "id": "ss904l-butterfly-valve-pneumatic",
+      "name": "SS 904L Butterfly Valve with Pneumatic Actuator",
+      "shortName": "SS 904L Actuated Butterfly Valve",
+      "category": "Automated Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "SS 904L Center Disc Double Flanged Butterfly Valve with Pneumatic Single Acting Actuator, EPDM Seat, EN 10204 3.1 Certified.",
+      "applications": ["Corrosive Media", "Chemical Processing", "Seawater Systems"],
+      "featured": true
     }
   ]
 }
