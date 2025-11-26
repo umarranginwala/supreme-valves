@@ -239,8 +239,19 @@ document.addEventListener('DOMContentLoaded', () => {
             const products = productManager.getAllProducts();
             console.log('Footer products:', products.length);
             if (products && products.length > 0) {
+                // Determine correct path prefix based on current location
+                const path = window.location.pathname;
+                let pathPrefix = 'products/';
+                
+                // If we're in a subdirectory, adjust the path
+                if (path.includes('/products/')) {
+                    pathPrefix = '';
+                } else if (path.includes('/faqs/') || path.includes('/docs/')) {
+                    pathPrefix = '../products/';
+                }
+                
                 const html = products.map(product => 
-                    `<li><a href="products/${product.id}.html">${product.shortName}</a></li>`
+                    `<li><a href="${pathPrefix}${product.id}.html">${product.shortName}</a></li>`
                 ).join('');
                 footerProductsList.innerHTML = html;
             } else {
@@ -257,10 +268,24 @@ document.addEventListener('DOMContentLoaded', () => {
     if (productsDropdown) {
         productManager.loadProducts().then(() => {
             const products = productManager.getAllProducts();
+            // Determine correct path prefix based on current location
+            const path = window.location.pathname;
+            let pathPrefix = 'products/';
+            
+            // If we're in a subdirectory, adjust the path
+            if (path.includes('/products/')) {
+                pathPrefix = '';
+            } else if (path.includes('/faqs/') || path.includes('/docs/')) {
+                pathPrefix = '../products/';
+            }
+            
             const html = products.map(product => 
-                `<a href="products/${product.id}.html">${product.shortName}</a>`
+                `<a href="${pathPrefix}${product.id}.html">${product.shortName}</a>`
             ).join('');
             productsDropdown.innerHTML = html;
+        }).catch(error => {
+            console.error('Error loading dropdown products:', error);
+            productsDropdown.innerHTML = '<a href="products.html">View All Products</a>';
         });
     }
 });
