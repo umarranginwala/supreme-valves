@@ -289,6 +289,46 @@
       "description": "SS 904L Center Disc Double Flanged Butterfly Valve with Pneumatic Single Acting Actuator, EPDM Seat, EN 10204 3.1 Certified.",
       "applications": ["Corrosive Media", "Chemical Processing", "Seawater Systems"],
       "featured": true
+    },
+    {
+      "id": "triple-offset-butterfly-valve-10inch",
+      "name": "10\" Triple Offset Butterfly Valve ASME B16.5 Class 150",
+      "shortName": "10\" Triple Offset Butterfly Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Triple Offset Butterfly Valve, Wafer Type, ASME B16.5 Class 150. WCB Body with 13CR Seat and Graphite Seals.",
+      "applications": ["High Performance", "Oil & Gas", "Power Generation"],
+      "featured": true
+    },
+    {
+      "id": "nab-butterfly-valve-dn150-lug",
+      "name": "Nickel Aluminium Bronze Butterfly Valve DN150 PN16 Lug Type",
+      "shortName": "NAB Butterfly Valve DN150 Lug",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Lug Type Butterfly Valve DN150 PN16/Class 150, Nickel Aluminium Bronze Body & Disc, EPDM Seat, Monel Stem, Manual Gearbox.",
+      "applications": ["Marine", "Seawater", "Corrosive Service"],
+      "featured": true
+    },
+    {
+      "id": "nab-butterfly-valve-dn100",
+      "name": "Nickel Aluminium Bronze Butterfly Valve DN100 PN16",
+      "shortName": "NAB Butterfly Valve DN100",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Butterfly Valve DN100 PN16/Class 150, Nickel Aluminium Bronze Body & Disc, EPDM Seat, Monel Stem, Manual Gearbox.",
+      "applications": ["Marine", "Seawater", "Offshore"],
+      "featured": true
+    },
+    {
+      "id": "nab-butterfly-valve-dn80-lug",
+      "name": "Nickel Aluminium Bronze Butterfly Valve DN80 PN16 Lug Type",
+      "shortName": "NAB Butterfly Valve DN80 Lug",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Lug Type Butterfly Valve DN80 PN16/Class 150, Nickel Aluminium Bronze Body & Disc, EPDM Seat, Monel Stem, Manual Gearbox, EN 10204 3.1 Certified.",
+      "applications": ["Marine", "Seawater", "Shipbuilding"],
+      "featured": true
     }
   ]
 }
