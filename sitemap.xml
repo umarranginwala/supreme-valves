@@ -81,4 +81,10 @@
     <url><loc>https://www.supremevalves.in/products/nab-butterfly-valve-dn150-lug.html</loc><lastmod>2025-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.supremevalves.in/products/nab-butterfly-valve-dn100.html</loc><lastmod>2025-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
     <url><loc>https://www.supremevalves.in/products/nab-butterfly-valve-dn80-lug.html</loc><lastmod>2025-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+    
+    <!-- Blog Pages -->
+    <url><loc>https://www.supremevalves.in/blog.html</loc><lastmod>2025-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+    <url><loc>https://www.supremevalves.in/blog/complete-guide-industrial-valve-selection.html</loc><lastmod>2025-11-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://www.supremevalves.in/blog/valve-maintenance-best-practices.html</loc><lastmod>2025-11-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+    <url><loc>https://www.supremevalves.in/blog/ball-valve-vs-gate-valve-comparison.html</loc><lastmod>2025-11-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 </urlset>
