@@ -1,0 +1,39 @@
+{
+  "company": {
+    "name": "Supreme Valves India",
+    "whatsapp": "919773278770",
+    "address": {
+      "india": "Ranginwala Building, Relief Road<br>Ahmedabad - 380001, Gujarat, India",
+      "international": "Singapore: sg@supremevalves.in<br>Sydney, Australia: aus@supremevalves.in<br>Mississauga, Canada: ca@supremevalves.in"
+    }
+  },
+  "navigation": [
+    { "id": "home", "label": "Home", "href": "index.html" },
+    { "id": "about", "label": "About Us", "href": "about.html" },
+    { "id": "products", "label": "Products", "href": "products.html", "dropdown": true },
+    { "id": "industries", "label": "Industries", "href": "industries.html" },
+    { "id": "projects", "label": "Projects", "href": "projects.html" },
+    { "id": "resources", "label": "Resources", "href": "resources.html" },
+    { "id": "faqs", "label": "FAQs", "href": "faqs.html" },
+    { "id": "contact", "label": "Contact Us", "href": "contact.html" }
+  ],
+  "quickLinks": [
+    { "label": "Home", "href": "index.html" },
+    { "label": "About Us", "href": "about.html" },
+    { "label": "Products", "href": "products.html" },
+    { "label": "Industries", "href": "industries.html" },
+    { "label": "Projects", "href": "projects.html" },
+    { "label": "Resources", "href": "resources.html" },
+    { "label": "Contact Us", "href": "contact.html" },
+    { "label": "IBR Certified Valves", "href": "ibr-certified-valve-manufacturer.html" },
+    { "label": "Export to Middle East", "href": "valve-exporter-middle-east.html" }
+  ],
+  "socialMedia": [
+    { "name": "Facebook", "url": "https://www.facebook.com/p/Supreme-Enterprise-61566023002189/", "icon": "fab fa-facebook-f" },
+    { "name": "Instagram", "url": "https://www.instagram.com/supremevalvesindia/", "icon": "fab fa-instagram" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/company/supreme-valves-india/posts/?feedView=all", "icon": "fab fa-linkedin-in" },
+    { "name": "Twitter/X", "url": "https://x.com/SupremeValves", "icon": "fab fa-x-twitter" },
+    { "name": "YouTube", "url": "https://www.youtube.com/@SupremeValves", "icon": "fab fa-youtube" },
+    { "name": "Pinterest", "url": "#", "icon": "fab fa-pinterest-p" }
+  ]
+}
