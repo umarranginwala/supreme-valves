@@ -106,6 +106,7 @@ header .container {
     align-items: center;
     padding: 1.2rem 2rem;
     max-width: 1400px;
+    overflow: visible;
 }
 
 header .logo img {
