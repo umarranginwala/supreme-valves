@@ -469,6 +469,36 @@
       "description": "Cast Iron Foot Valve with Flange End conforming to IS 4038/BS-1. Complete with strainer screen for water and oil applications.",
       "applications": ["Water Systems", "Oil Systems", "Pump Protection", "Suction Lines"],
       "featured": true
+    },
+    {
+      "id": "ci-ball-valve-3pc-flange-end",
+      "name": "C.I. Ball Valve Three Piece Flange End 150#",
+      "shortName": "CI Ball Valve 3PC F/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Ball Valve Three Piece Design with Flange End Class 150. Square body design up to 3\", round body 4\" and above. E/F table flanges available.",
+      "applications": ["Water Systems", "Industrial Process", "HVAC", "Plumbing"],
+      "featured": true
+    },
+    {
+      "id": "ci-ball-valve-2pc-flange-end",
+      "name": "C.I. Ball Valve Two Piece Flange End 150#",
+      "shortName": "CI Ball Valve 2PC F/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Ball Valve Two Piece Design with Flange End Class 150. Locking lever available. Sizes 1\" to 4\" for water applications.",
+      "applications": ["Water Systems", "Municipal Water", "Building Services", "HVAC"],
+      "featured": true
+    },
+    {
+      "id": "ci-ms-ss-ball-valve-1pc-screw-end",
+      "name": "C.I./M.S./S.S. Ball Valve Single Piece Screw End",
+      "shortName": "CI/MS/SS Ball Valve 1PC S/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Single Piece Ball Valve available in Cast Iron, Mild Steel, or Stainless Steel. BSP/NPT threading. Compact design for water, oil, air, and gas.",
+      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "featured": true
     }
   ]
 }
