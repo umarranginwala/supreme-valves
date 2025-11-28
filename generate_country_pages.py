@@ -191,6 +191,26 @@ def generate_country_page(country):
             margin-top: 2rem;
         }}
         
+        .view-all-link .btn {{
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }}
+        
+        .view-all-link .btn-secondary {{
+            background: var(--secondary-color);
+            color: white;
+            border: 2px solid var(--secondary-color);
+        }}
+        
+        .view-all-link .btn-secondary:hover {{
+            background: transparent;
+            color: var(--secondary-color);
+        }}
+        
         .country-cta {{
             background: linear-gradient(135deg, var(--accent-color) 0%, #ff6b35 100%);
             color: white;
@@ -202,11 +222,31 @@ def generate_country_page(country):
         .country-cta h2 {{
             font-size: 2rem;
             margin-bottom: 1rem;
+            color: white;
         }}
         
         .country-cta p {{
             font-size: 1.2rem;
             margin-bottom: 2rem;
+            color: white;
+        }}
+        
+        .country-cta .btn-primary {{
+            background: white;
+            color: var(--accent-color);
+            padding: 1rem 2rem;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 700;
+            display: inline-block;
+            transition: all 0.3s ease;
+            border: 2px solid white;
+        }}
+        
+        .country-cta .btn-primary:hover {{
+            background: transparent;
+            color: white;
+            border-color: white;
         }}
     </style>
 </head>
@@ -255,7 +295,7 @@ def generate_country_page(country):
             <div class="container">
                 <h2>Ready to Source Quality Valves for {country_name}?</h2>
                 <p>Contact Supreme Valves India for expert consultation and competitive quotes</p>
-                <a href="../contact.html" class="btn btn-primary" style="background: white; color: var(--accent-color);">Get a Quote →</a>
+                <a href="../contact.html" class="btn btn-primary">Get a Quote →</a>
             </div>
         </section>
     </main>

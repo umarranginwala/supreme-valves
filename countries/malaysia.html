@@ -128,6 +128,26 @@
             margin-top: 2rem;
         }
         
+        .view-all-link .btn {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .view-all-link .btn-secondary {
+            background: var(--secondary-color);
+            color: white;
+            border: 2px solid var(--secondary-color);
+        }
+        
+        .view-all-link .btn-secondary:hover {
+            background: transparent;
+            color: var(--secondary-color);
+        }
+        
         .country-cta {
             background: linear-gradient(135deg, var(--accent-color) 0%, #ff6b35 100%);
             color: white;
@@ -139,11 +159,31 @@
         .country-cta h2 {
             font-size: 2rem;
             margin-bottom: 1rem;
+            color: white;
         }
         
         .country-cta p {
             font-size: 1.2rem;
             margin-bottom: 2rem;
+            color: white;
+        }
+        
+        .country-cta .btn-primary {
+            background: white;
+            color: var(--accent-color);
+            padding: 1rem 2rem;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 700;
+            display: inline-block;
+            transition: all 0.3s ease;
+            border: 2px solid white;
+        }
+        
+        .country-cta .btn-primary:hover {
+            background: transparent;
+            color: white;
+            border-color: white;
         }
     </style>
 </head>
@@ -768,7 +808,7 @@
             <div class="container">
                 <h2>Ready to Source Quality Valves for Malaysia?</h2>
                 <p>Contact Supreme Valves India for expert consultation and competitive quotes</p>
-                <a href="../contact.html" class="btn btn-primary" style="background: white; color: var(--accent-color);">Get a Quote →</a>
+                <a href="../contact.html" class="btn btn-primary">Get a Quote →</a>
             </div>
         </section>
     </main>
@@ -785,51 +825,13 @@
                 <div class="footer-col">
                     <h4>Quick Links</h4>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="products.html">Products</a></li>
-                        <li><a href="industries.html">Industries</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-                        <li><a href="resources.html">Resources</a></li>
-                        <li><a href="faqs.html">FAQs</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>Resources & Info</h4>
-                    <ul>
-                        <li><a href="ibr-certified-valve-manufacturer.html">IBR Certified Valves</a></li>
-                        <li><a href="globe-valve-manufacturers-india.html">Globe Valve Manufacturers</a></li>
-                        <li><a href="valve-exporter-middle-east.html">Valve Exporter Middle East</a></li>
-                        <li><a href="faqs/valve-types-selection.html">Valve Types & Selection</a></li>
-                        <li><a href="faqs/valve-materials.html">Valve Materials</a></li>
-                        <li><a href="faqs/valve-standards.html">Valve Standards</a></li>
-                        <li><a href="faqs/valve-maintenance.html">Valve Maintenance</a></li>
-                        <li><a href="docs/technical-resources/technical-resources.html">Technical Resources</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>Global Presence</h4>
-                    <ul>
-                        <li><a href="countries/uae.html">UAE</a></li>
-                        <li><a href="countries/saudi-arabia.html">Saudi Arabia</a></li>
-                        <li><a href="countries/qatar.html">Qatar</a></li>
-                        <li><a href="countries/oman.html">Oman</a></li>
-                        <li><a href="countries/kuwait.html">Kuwait</a></li>
-                        <li><a href="countries/bahrain.html">Bahrain</a></li>
-                        <li><a href="countries/egypt.html">Egypt</a></li>
-                        <li><a href="countries/south-africa.html">South Africa</a></li>
-                        <li><a href="countries/nigeria.html">Nigeria</a></li>
-                        <li><a href="countries/kenya.html">Kenya</a></li>
-                        <li><a href="countries/singapore.html">Singapore</a></li>
-                        <li><a href="countries/malaysia.html">Malaysia</a></li>
-                        <li><a href="countries/indonesia.html">Indonesia</a></li>
-                        <li><a href="countries/thailand.html">Thailand</a></li>
-                        <li><a href="countries/australia.html">Australia</a></li>
-                        <li><a href="countries/usa.html">USA</a></li>
-                        <li><a href="countries/canada.html">Canada</a></li>
-                        <li><a href="countries/uk.html">UK</a></li>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../about.html">About Us</a></li>
+                        <li><a href="../products.html">Products</a></li>
+                        <li><a href="../industries.html">Industries</a></li>
+                        <li><a href="../projects.html">Projects</a></li>
+                        <li><a href="../resources.html">Resources</a></li>
+                        <li><a href="../contact.html">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -862,7 +864,6 @@
                 <a href="https://www.linkedin.com/company/supreme-valves-india/posts/?feedView=all" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
                 <a href="https://x.com/SupremeValves" target="_blank" aria-label="Twitter/X"><i class="fab fa-x-twitter"></i></a>
                 <a href="https://www.youtube.com/@SupremeValves" target="_blank" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
-                <a href="#" target="_blank" aria-label="Pinterest"><i class="fab fa-pinterest-p"></i></a>
             </div>
             
             <div class="copyright">
@@ -870,8 +871,6 @@
             </div>
         </div>
     </footer>
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <script src="js/products.js"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <script src="../js/products.js"></script>
 </body>
