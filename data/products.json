@@ -559,6 +559,66 @@
       "description": "Investment Cast Ball Valve with Tri-Clover (TC) sanitary connections. Class 150. Sizes 15mm to 50mm. For hygienic applications.",
       "applications": ["Food & Beverage", "Pharmaceutical", "Dairy", "Biotech"],
       "featured": true
+    },
+    {
+      "id": "butterfly-valve-pn10",
+      "name": "Butterfly Valve PN10",
+      "shortName": "Butterfly Valve PN10",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Butterfly Valve PN10 with rubber lining (Nitrile/EPDM/Viton/Silicon). Sizes 40mm to 300mm. API 609/IS 13095 compliant. Gear operated available.",
+      "applications": ["Water Systems", "Oil Systems", "Air Systems", "HVAC"],
+      "featured": true
+    },
+    {
+      "id": "butterfly-valve-pn16",
+      "name": "Butterfly Valve PN16",
+      "shortName": "Butterfly Valve PN16",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Butterfly Valve PN16 with ISO 5211 mounting. Cast Iron/Cast Steel/SS construction. Sizes 40mm to 400mm. Gear operated available.",
+      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Industrial Process"],
+      "featured": true
+    },
+    {
+      "id": "ptfe-lined-ball-valve",
+      "name": "PTFE Lined Ball Valve Lever Operated",
+      "shortName": "PTFE Lined Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "PTFE Lined Ball Valve with PFA/FEP lining. SG Iron/WCB/SS body. Sizes 1\" to 4\". For corrosive media applications.",
+      "applications": ["Chemical Process", "Corrosive Media", "Acids & Alkalis", "Pharmaceutical"],
+      "featured": true
+    },
+    {
+      "id": "ptfe-lined-butterfly-valve",
+      "name": "PTFE Lined Butterfly Valve Lever Operated",
+      "shortName": "PTFE Lined Butterfly",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "PTFE Lined Butterfly Valve with FEP/PFA lining. API 609 compliant. Sizes 50mm to 350mm. For corrosive and aggressive media.",
+      "applications": ["Chemical Process", "Corrosive Media", "Acids", "Pharmaceutical"],
+      "featured": true
+    },
+    {
+      "id": "gate-valve-flange-end-150",
+      "name": "Gate Valve Flange End 150#",
+      "shortName": "Gate Valve F/E 150#",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Gate Valve Flange End Class 150. ANSI B16.34/API 600 compliant. CF8/CF8M/CI/CS materials. Sizes 25mm to 300mm.",
+      "applications": ["Steam Systems", "Water Systems", "Oil Systems", "Air Systems"],
+      "featured": true
+    },
+    {
+      "id": "globe-valve-flange-end-150",
+      "name": "Globe Valve Flange End 150#",
+      "shortName": "Globe Valve F/E 150#",
+      "category": "Globe Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Globe Valve Flange End Class 150. BS 5351/API 6D compliant. CF8/CF8M/CI/CS materials. Sizes 25mm to 300mm.",
+      "applications": ["Steam Systems", "Oil Systems", "Air Systems", "Throttling Service"],
+      "featured": true
     }
   ]
 }
