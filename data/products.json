@@ -739,6 +739,66 @@
       "description": "Cast Iron Y Strainer Flange End Class 150. Body test 7 Kg/cm². Sizes 25mm to 300mm. SS 202/304 screen.",
       "applications": ["Water Systems", "Municipal Water", "Industrial Water", "HVAC"],
       "featured": true
+    },
+    {
+      "id": "cs-y-strainer-flange-end",
+      "name": "C.S. Y Strainer Flange End 150#",
+      "shortName": "CS Y Strainer F/E",
+      "category": "Strainers",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Carbon Steel Y Strainer Flange End Class 150. ASTM A216 WCB. Sizes 25mm to 300mm. SS 304/316 screen.",
+      "applications": ["Steam Systems", "Oil Systems", "High Temperature", "Process Industries"],
+      "featured": true
+    },
+    {
+      "id": "basket-strainer-flange-end",
+      "name": "T/Basket/Bucket Type Strainer Flange End",
+      "shortName": "Basket Strainer",
+      "category": "Strainers",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Basket/Bucket Type Strainer Class 150/300. WCB/SS 304/316 construction. Sizes 50mm to 300mm. Large filtration area.",
+      "applications": ["Water Systems", "Oil Systems", "Chemical Process", "Pipeline Protection"],
+      "featured": true
+    },
+    {
+      "id": "ic-full-view-sight-glass",
+      "name": "I.C. Full View Sight Glass Flange End",
+      "shortName": "IC Full View Sight Glass",
+      "category": "Sight Glasses",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Full View Sight Glass Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 100mm. Tempered glass.",
+      "applications": ["Process Monitoring", "Flow Indication", "Chemical Plants", "Food & Beverage"],
+      "featured": true
+    },
+    {
+      "id": "ic-double-window-sight-glass",
+      "name": "I.C. Double Window Sight Glass Flange End",
+      "shortName": "IC Double Window Sight Glass",
+      "category": "Sight Glasses",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Double Window Sight Glass Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 100mm. Dual viewing windows.",
+      "applications": ["Process Monitoring", "Flow Indication", "Chemical Plants", "Pharmaceutical"],
+      "featured": true
+    },
+    {
+      "id": "full-view-sight-glass-barstock",
+      "name": "Full View Sight Glass Barstock Type",
+      "shortName": "Sight Glass Barstock",
+      "category": "Sight Glasses",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Full View Sight Glass Barstock PN10/PN16. CI/MS/SS construction. Sizes 40mm to 200mm. Tempered glass.",
+      "applications": ["Process Monitoring", "Flow Indication", "Water Systems", "Industrial Process"],
+      "featured": true
+    },
+    {
+      "id": "gauge-glass-cock-set",
+      "name": "Gauge Glass Cock Set",
+      "shortName": "Gauge Glass Cock",
+      "category": "Sight Glasses",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Gauge Glass Cock Set for level indication. Sizes 1/2\" to 1\". MS/SS construction. For boiler and tank level monitoring.",
+      "applications": ["Level Indication", "Boiler Monitoring", "Tank Level", "Steam Systems"],
+      "featured": true
     }
   ]
 }
