@@ -799,6 +799,66 @@
       "description": "Gauge Glass Cock Set for level indication. Sizes 1/2\" to 1\". MS/SS construction. For boiler and tank level monitoring.",
       "applications": ["Level Indication", "Boiler Monitoring", "Tank Level", "Steam Systems"],
       "featured": true
+    },
+    {
+      "id": "pp-ball-valve-flange-end",
+      "name": "PP Ball Valve Flange End PN10",
+      "shortName": "PP Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Polypropylene Ball Valve Flange End PN10. Sizes 20mm to 110mm. Corrosion resistant. For chemical and water applications.",
+      "applications": ["Chemical Process", "Water Treatment", "Corrosive Media", "Pharmaceutical"],
+      "featured": true
+    },
+    {
+      "id": "pp-foot-valve-flange-end",
+      "name": "PP Foot Valve Flange End PN10",
+      "shortName": "PP Foot Valve",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Polypropylene Foot Valve Flange End PN10. Sizes 25mm to 100mm. For suction lines and pump protection.",
+      "applications": ["Pump Suction", "Water Treatment", "Chemical Transfer", "Tank Bottom"],
+      "featured": true
+    },
+    {
+      "id": "pp-nrv-flange-end",
+      "name": "PP NRV (Non Return Valve) Flange End PN10",
+      "shortName": "PP NRV",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Polypropylene Non Return Valve Flange End PN10. Sizes 25mm to 100mm. Spring loaded disc design.",
+      "applications": ["Chemical Process", "Water Treatment", "Pump Protection", "Corrosive Media"],
+      "featured": true
+    },
+    {
+      "id": "ci-gate-valve-flange-end",
+      "name": "C.I. Gate Valve Flange End 125#",
+      "shortName": "CI Gate Valve F/E",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Gate Valve Flange End Class 125. BS 5150 compliant. Sizes 25mm to 300mm. Rising stem design.",
+      "applications": ["Water Systems", "Municipal Water", "Building Services", "HVAC"],
+      "featured": true
+    },
+    {
+      "id": "ci-globe-valve-flange-end",
+      "name": "C.I. Globe Valve Flange End 125#",
+      "shortName": "CI Globe Valve F/E",
+      "category": "Globe Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Globe Valve Flange End Class 125. BS 5152 compliant. Sizes 25mm to 300mm. For throttling service.",
+      "applications": ["Water Systems", "Steam Systems", "HVAC", "Building Services"],
+      "featured": true
+    },
+    {
+      "id": "ci-check-valve-flange-end",
+      "name": "C.I. Check Valve Flange End 125#",
+      "shortName": "CI Check Valve F/E",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Check Valve Flange End Class 125. BS 5153 compliant. Sizes 25mm to 300mm. Swing type design.",
+      "applications": ["Water Systems", "Municipal Water", "Pump Protection", "HVAC"],
+      "featured": true
     }
   ]
 }
