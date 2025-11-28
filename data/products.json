@@ -329,6 +329,96 @@
       "description": "Lug Type Butterfly Valve DN80 PN16/Class 150, Nickel Aluminium Bronze Body & Disc, EPDM Seat, Monel Stem, Manual Gearbox, EN 10204 3.1 Certified.",
       "applications": ["Marine", "Seawater", "Shipbuilding"],
       "featured": true
+    },
+    {
+      "id": "ic-ball-valve-1pc-screw-end",
+      "name": "I.C. Ball Valve Single Piece Screw End",
+      "shortName": "IC Ball Valve 1PC S/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Single Piece Design with Screw End connections (BSP/BSPT/NPT). Compact design for steam, water, oil, air, and gas applications.",
+      "applications": ["Steam Systems", "Water Treatment", "Oil & Gas", "Air Systems"],
+      "featured": true
+    },
+    {
+      "id": "ic-ball-valve-1pc-flange-end",
+      "name": "I.C. Ball Valve Single Piece Flange End",
+      "shortName": "IC Ball Valve 1PC F/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Single Piece Design with Flange End Class 150. PTFE/GFT seats for reliable sealing in various applications.",
+      "applications": ["Steam Systems", "Water Treatment", "Oil & Gas", "Chemical Processing"],
+      "featured": true
+    },
+    {
+      "id": "ic-ball-valve-2pc-flange-end",
+      "name": "I.C. Ball Valve Two Piece Flange End",
+      "shortName": "IC Ball Valve 2PC F/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Two Piece Design with Flange End Class 150. Easy maintenance design with API 6D compliance.",
+      "applications": ["Oil & Gas", "Petrochemical", "Water Systems", "Industrial Process"],
+      "featured": true
+    },
+    {
+      "id": "ic-ball-valve-3pc-screw-end",
+      "name": "I.C. Ball Valve Three Piece Screw End",
+      "shortName": "IC Ball Valve 3PC S/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Three Piece Design with Screw/Socket Weld End. Full port design with easy in-line maintenance capability.",
+      "applications": ["Process Industries", "Chemical Plants", "Oil & Gas", "Power Generation"],
+      "featured": true
+    },
+    {
+      "id": "ic-ball-valve-3pc-flange-end-150",
+      "name": "I.C. Ball Valve Three Piece Flange End Class 150",
+      "shortName": "IC Ball Valve 3PC F/E 150#",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Three Piece Design Flange End Class 150. Available with gear operation and actuator options.",
+      "applications": ["Oil & Gas", "Petrochemical", "Chemical Processing", "Water Treatment"],
+      "featured": true
+    },
+    {
+      "id": "ic-ball-valve-3pc-flange-end-300",
+      "name": "I.C. Ball Valve Three Piece Flange End Class 300",
+      "shortName": "IC Ball Valve 3PC F/E 300#",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Three Piece Design Flange End Class 300. High pressure rating with gear and actuator operation available.",
+      "applications": ["High Pressure Systems", "Oil & Gas", "Petrochemical", "Power Plants"],
+      "featured": true
+    },
+    {
+      "id": "ic-ball-valve-3pc-e-table",
+      "name": "I.C. Ball Valve Three Piece E Table Flange",
+      "shortName": "IC Ball Valve 3PC E Table",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Three Piece Design with E Table Flange connections. Compact design for space-constrained applications.",
+      "applications": ["Industrial Process", "Chemical Plants", "Water Systems", "HVAC"],
+      "featured": true
+    },
+    {
+      "id": "ic-ball-valve-3pc-f-table",
+      "name": "I.C. Ball Valve Three Piece F Table Flange",
+      "shortName": "IC Ball Valve 3PC F Table",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve Three Piece Design with F Table Flange connections. Suitable for various industrial applications.",
+      "applications": ["Industrial Process", "Chemical Plants", "Water Systems", "Oil & Gas"],
+      "featured": true
+    },
+    {
+      "id": "cs-ball-valve-3pc-flange-end",
+      "name": "Cast Steel Ball Valve Three Piece Flange End",
+      "shortName": "CS Ball Valve 3PC F/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Steel Ball Valve Three Piece Design with Flange End Class 150/300. WCB body with fire-safe and anti-static design available.",
+      "applications": ["Water Systems", "Oil & Gas", "Air Systems", "Industrial Process"],
+      "featured": true
     }
   ]
 }
