@@ -679,6 +679,66 @@
       "description": "Wafer Check Valve Barstock PN10/PN16. CI/MS/SS construction. Sizes 40mm to 300mm. Nitrile/EPDM O-ring.",
       "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
       "featured": true
+    },
+    {
+      "id": "swing-check-valve-flange-end",
+      "name": "Swing Check Valve Flange End 150#",
+      "shortName": "Swing Check Valve",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Swing Check Valve Class 150. BS 1873/API 598 compliant. ASTM A216 WCB. Sizes 25mm to 300mm. Full port design.",
+      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "featured": true
+    },
+    {
+      "id": "dual-plate-check-valve",
+      "name": "Dual Plate Check Valve Wafer Type",
+      "shortName": "Dual Plate Check",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Dual Plate Check Valve API 594/API 6D. Wafer type between flanges. Sizes 50mm to 600mm. Spring loaded dual disc design.",
+      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "featured": true
+    },
+    {
+      "id": "ic-y-strainer-screw-end",
+      "name": "I.C. Y Strainer Screw End",
+      "shortName": "IC Y Strainer S/E",
+      "category": "Strainers",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Y Strainer with BSP threading. Class 150. Sizes 1/2\" to 2\". ASTM A351 CF8/CF8M. SS screen.",
+      "applications": ["Water Systems", "Oil Systems", "Steam Systems", "Process Protection"],
+      "featured": true
+    },
+    {
+      "id": "ic-y-strainer-flange-end",
+      "name": "I.C. Y Strainer Flange End 150#",
+      "shortName": "IC Y Strainer F/E",
+      "category": "Strainers",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Y Strainer Flange End Class 150. ANSI B16.5 flanges. Sizes 25mm to 150mm. ASTM A351 CF8/CF8M with SS 304/316 screen.",
+      "applications": ["Water Systems", "Oil Systems", "Steam Systems", "Pipeline Protection"],
+      "featured": true
+    },
+    {
+      "id": "ci-y-strainer-screw-end",
+      "name": "C.I. Y Strainer Screw End",
+      "shortName": "CI Y Strainer S/E",
+      "category": "Strainers",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Y Strainer with BSP threading. Body test 7 Kg/cm². Sizes 15mm to 100mm. SS 202/304 screen.",
+      "applications": ["Water Systems", "Municipal Water", "Building Services", "HVAC"],
+      "featured": true
+    },
+    {
+      "id": "ci-y-strainer-flange-end",
+      "name": "C.I. Y Strainer Flange End 150#",
+      "shortName": "CI Y Strainer F/E",
+      "category": "Strainers",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Y Strainer Flange End Class 150. Body test 7 Kg/cm². Sizes 25mm to 300mm. SS 202/304 screen.",
+      "applications": ["Water Systems", "Municipal Water", "Industrial Water", "HVAC"],
+      "featured": true
     }
   ]
 }
