@@ -859,6 +859,146 @@
       "description": "Cast Iron Check Valve Flange End Class 125. BS 5153 compliant. Sizes 25mm to 300mm. Swing type design.",
       "applications": ["Water Systems", "Municipal Water", "Pump Protection", "HVAC"],
       "featured": true
+    },
+    {
+      "id": "ss-gate-valve-flange-end",
+      "name": "S.S. Gate Valve Flange End 150#",
+      "shortName": "SS Gate Valve F/E",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Stainless Steel Gate Valve Flange End Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 300mm. Corrosion resistant.",
+      "applications": ["Chemical Process", "Pharmaceutical", "Food & Beverage", "Corrosive Media"],
+      "featured": true
+    },
+    {
+      "id": "ss-globe-valve-flange-end",
+      "name": "S.S. Globe Valve Flange End 150#",
+      "shortName": "SS Globe Valve F/E",
+      "category": "Globe Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Stainless Steel Globe Valve Flange End Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 300mm. For throttling.",
+      "applications": ["Chemical Process", "Pharmaceutical", "Food & Beverage", "Steam Systems"],
+      "featured": true
+    },
+    {
+      "id": "ss-check-valve-flange-end",
+      "name": "S.S. Check Valve Flange End 150#",
+      "shortName": "SS Check Valve F/E",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Stainless Steel Check Valve Flange End Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 300mm. Swing type.",
+      "applications": ["Chemical Process", "Pharmaceutical", "Food & Beverage", "Pump Protection"],
+      "featured": true
+    },
+    {
+      "id": "diaphragm-valve-weir-type",
+      "name": "Diaphragm Valve Weir Type",
+      "shortName": "Diaphragm Valve Weir",
+      "category": "Diaphragm Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Diaphragm Valve Weir Type. CI/SS body with EPDM/PTFE diaphragm. Sizes 15mm to 100mm. For corrosive media.",
+      "applications": ["Chemical Process", "Pharmaceutical", "Water Treatment", "Corrosive Media"],
+      "featured": true
+    },
+    {
+      "id": "diaphragm-valve-straight-through",
+      "name": "Diaphragm Valve Straight Through Type",
+      "shortName": "Diaphragm Valve ST",
+      "category": "Diaphragm Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Diaphragm Valve Straight Through Type. CI/SS body. Sizes 15mm to 100mm. Full bore design.",
+      "applications": ["Slurry Handling", "Mining", "Wastewater", "Abrasive Media"],
+      "featured": true
+    },
+    {
+      "id": "plug-valve-lubricated",
+      "name": "Plug Valve Lubricated Type",
+      "shortName": "Plug Valve Lubricated",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Plug Valve Lubricated Type Class 150/300. WCB/SS construction. Sizes 25mm to 300mm. For on-off service.",
+      "applications": ["Oil & Gas", "Petrochemical", "Refinery", "Pipeline"],
+      "featured": true
+    },
+    {
+      "id": "pinch-valve-sleeve-type",
+      "name": "Pinch Valve Sleeve Type",
+      "shortName": "Pinch Valve",
+      "category": "Pinch Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Pinch Valve Sleeve Type. Natural rubber/EPDM sleeve. Sizes 25mm to 300mm. For slurry and abrasive media.",
+      "applications": ["Slurry Handling", "Mining", "Wastewater", "Powder Handling"],
+      "featured": true
+    },
+    {
+      "id": "control-valve-pneumatic",
+      "name": "Control Valve Pneumatic Actuated",
+      "shortName": "Control Valve Pneumatic",
+      "category": "Control Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Control Valve with Pneumatic Actuator. Globe/Angle/Butterfly types. Sizes 15mm to 300mm. For process control.",
+      "applications": ["Process Control", "Chemical Plants", "Oil & Gas", "Power Plants"],
+      "featured": true
+    },
+    {
+      "id": "control-valve-electric",
+      "name": "Control Valve Electric Actuated",
+      "shortName": "Control Valve Electric",
+      "category": "Control Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Control Valve with Electric Actuator. Globe/Angle/Butterfly types. Sizes 15mm to 300mm. For automated control.",
+      "applications": ["Process Automation", "Chemical Plants", "Water Treatment", "HVAC"],
+      "featured": true
+    },
+    {
+      "id": "pressure-seal-gate-valve",
+      "name": "Pressure Seal Gate Valve Class 600/900/1500",
+      "shortName": "Pressure Seal Gate",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Pressure Seal Gate Valve Class 600/900/1500. ASTM A216 WCB. Sizes 50mm to 600mm. High pressure design.",
+      "applications": ["High Pressure", "Power Plants", "Oil & Gas", "Petrochemical"],
+      "featured": true
+    },
+    {
+      "id": "pressure-seal-globe-valve",
+      "name": "Pressure Seal Globe Valve Class 600/900/1500",
+      "shortName": "Pressure Seal Globe",
+      "category": "Globe Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Pressure Seal Globe Valve Class 600/900/1500. ASTM A216 WCB. Sizes 50mm to 600mm. High pressure throttling.",
+      "applications": ["High Pressure", "Power Plants", "Oil & Gas", "Steam Systems"],
+      "featured": true
+    },
+    {
+      "id": "cryogenic-ball-valve",
+      "name": "Cryogenic Ball Valve LNG/LPG Service",
+      "shortName": "Cryogenic Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cryogenic Ball Valve for LNG/LPG. Extended stem design. Sizes 15mm to 300mm. Temperature -196°C to +80°C.",
+      "applications": ["LNG", "LPG", "Cryogenic Service", "Gas Processing"],
+      "featured": true
+    },
+    {
+      "id": "fire-safe-ball-valve",
+      "name": "Fire Safe Ball Valve API 607 Certified",
+      "shortName": "Fire Safe Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Fire Safe Ball Valve API 607 certified. WCB/SS construction. Sizes 15mm to 300mm. For fire protection.",
+      "applications": ["Oil & Gas", "Petrochemical", "Refinery", "Fire Protection"],
+      "featured": true
+    },
+    {
+      "id": "trunnion-mounted-ball-valve",
+      "name": "Trunnion Mounted Ball Valve Class 150-2500",
+      "shortName": "Trunnion Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Trunnion Mounted Ball Valve Class 150-2500. API 6D compliant. Sizes 50mm to 600mm. For high pressure.",
+      "applications": ["Oil & Gas", "Pipeline", "Petrochemical", "High Pressure"],
+      "featured": true
     }
   ]
 }
