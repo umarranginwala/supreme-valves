@@ -206,6 +206,10 @@ class ProductRenderer {
             return;
         }
 
+        // Determine correct link path based on current location
+        const isOnProductPage = window.location.pathname.includes('/products/');
+        const productLinkPath = isOnProductPage ? '' : `${this.basePath}products/`;
+
         const html = `
             <h2 class="section-title">Related Products</h2>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-top: 2rem;">
@@ -214,7 +218,7 @@ class ProductRenderer {
                         <img src="${this.basePath}${product.image}" alt="${product.name}" loading="lazy">
                         <h3>${product.shortName}</h3>
                         <p>${product.description}</p>
-                        <a href="${this.basePath}products/${product.id}.html" class="btn btn-secondary">View Details</a>
+                        <a href="${productLinkPath}${product.id}.html" class="btn btn-secondary">View Details</a>
                     </div>
                 `).join('')}
             </div>
