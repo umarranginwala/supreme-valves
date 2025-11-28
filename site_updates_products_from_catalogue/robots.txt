@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.supremevalves.in/catalogue/sitemap.xml
