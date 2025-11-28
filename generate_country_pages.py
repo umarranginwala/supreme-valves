@@ -50,8 +50,8 @@ def generate_country_page(country):
         
         product_sections += f'''
         <section class="country-product-section">
-            <h2>{category} Manufacturer & Exporter in {country_name}</h2>
-            <p>Supreme Valves India manufactures and exports high-quality {category.lower()} designed for safe, reliable, and long-lasting flow control across critical industries in {country_name} including oil & gas, chemical processing, water treatment, power generation, and pharmaceuticals. Our {category.lower()} meet international standards including API, ASME, BS, and ISO specifications.</p>
+            <h2>{category} Exporter & Supplier in {country_name}</h2>
+            <p>Supreme Valves India exports and supplies high-quality {category.lower()} designed for safe, reliable, and long-lasting flow control across critical industries in {country_name} including oil & gas, chemical processing, water treatment, power generation, and pharmaceuticals. Our {category.lower()} meet international standards including API, ASME, BS, and ISO specifications.</p>
             <div class="country-products-grid">
                 {product_cards}
             </div>
@@ -66,7 +66,7 @@ def generate_country_page(country):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Industrial Valve Manufacturer & Exporter in {country_name} | Supreme Valves India</title>
+    <title>Industrial Valve Exporter & Supplier in {country_name} | Supreme Valves India</title>
     <meta name="description" content="{description}">
     <meta name="keywords" content="{keywords}">
     <meta name="author" content="Supreme Valves India">
@@ -77,7 +77,7 @@ def generate_country_page(country):
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.supremevalves.in/countries/{country_id}.html">
-    <meta property="og:title" content="Industrial Valve Manufacturer & Exporter in {country_name} | Supreme Valves India">
+    <meta property="og:title" content="Industrial Valve Exporter & Supplier in {country_name} | Supreme Valves India">
     <meta property="og:description" content="{description}">
     <meta property="og:image" content="https://www.supremevalves.in/assets/Valves%20and%20Projects/hero_image.jpeg">
     
@@ -279,7 +279,7 @@ def generate_country_page(country):
     <main>
         <section class="country-hero">
             <div class="container">
-                <h1>Industrial Valve Manufacturer & Exporter in {country_name}</h1>
+                <h1>Industrial Valve Exporter & Supplier in {country_name}</h1>
                 <p>{description}</p>
                 <div class="country-cities">
                     <strong>Serving:</strong> {cities}
