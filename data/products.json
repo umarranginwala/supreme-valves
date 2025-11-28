@@ -419,6 +419,56 @@
       "description": "Cast Steel Ball Valve Three Piece Design with Flange End Class 150/300. WCB body with fire-safe and anti-static design available.",
       "applications": ["Water Systems", "Oil & Gas", "Air Systems", "Industrial Process"],
       "featured": true
+    },
+    {
+      "id": "needle-valve",
+      "name": "Needle Valve",
+      "shortName": "Needle Valves",
+      "category": "Control Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Precision needle valves for accurate flow control. Available in round and square body designs with high pressure ratings up to 10,000 PSI.",
+      "applications": ["Steam Systems", "Air Systems", "Gas Systems", "Instrumentation"],
+      "featured": true
+    },
+    {
+      "id": "ic-steam-trap-thermodynamic",
+      "name": "I.C. Steam Trap Thermodynamic Type",
+      "shortName": "IC Steam Trap",
+      "category": "Steam Traps",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Thermodynamic Steam Trap with AISI 410 body. Compact design for efficient condensate removal in steam systems.",
+      "applications": ["Steam Systems", "Process Industries", "HVAC"],
+      "featured": true
+    },
+    {
+      "id": "ci-bucket-float-steam-trap",
+      "name": "C.I. Bucket & Ball Float Type Steam Trap",
+      "shortName": "CI Steam Trap",
+      "category": "Steam Traps",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Bucket and Ball Float Type Steam Trap conforming to IS 12268 / ISO 6552. Reliable condensate removal with graphite gasket sealing.",
+      "applications": ["Steam Systems", "Industrial Process", "Power Plants"],
+      "featured": true
+    },
+    {
+      "id": "knife-edge-gate-valve-flanged",
+      "name": "Knife Edge Gate Valve Flanged",
+      "shortName": "Knife Edge Gate Valve",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Knife Edge Gate Valve for powder and slurry applications. Available in WCB and Stainless Steel with sizes from 2\" to 16\".",
+      "applications": ["Powder Handling", "Slurry Systems", "Mining", "Cement Plants"],
+      "featured": true
+    },
+    {
+      "id": "ci-foot-valve-flange-end",
+      "name": "C.I. Foot Valve Flange End 150#",
+      "shortName": "CI Foot Valve",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Cast Iron Foot Valve with Flange End conforming to IS 4038/BS-1. Complete with strainer screen for water and oil applications.",
+      "applications": ["Water Systems", "Oil Systems", "Pump Protection", "Suction Lines"],
+      "featured": true
     }
   ]
 }
