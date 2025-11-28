@@ -499,6 +499,66 @@
       "description": "Single Piece Ball Valve available in Cast Iron, Mild Steel, or Stainless Steel. BSP/NPT threading. Compact design for water, oil, air, and gas.",
       "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
       "featured": true
+    },
+    {
+      "id": "forged-steel-ball-valve",
+      "name": "Forged Steel Ball Valve Class 800/1500",
+      "shortName": "FS Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Forged Steel Ball Valve Class 800 & 1500 with BSP/NPT/Socket Weld ends. High pressure rating up to 1100 PSI. ASTM A-105 & A-182 materials.",
+      "applications": ["High Pressure Systems", "Oil & Gas", "Petrochemical", "Power Plants"],
+      "featured": true
+    },
+    {
+      "id": "ic-three-way-ball-valve-screw-end",
+      "name": "I.C. Three Way Ball Valve Screw End",
+      "shortName": "IC 3-Way Ball Valve S/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Three Way Ball Valve with T-Port & L-Port designs. BSP/NPT threading. Sizes 1/2\" to 2\". Class 150 rating.",
+      "applications": ["Flow Diversion", "Mixing Applications", "Process Control", "Chemical Plants"],
+      "featured": true
+    },
+    {
+      "id": "three-way-ball-valve-flange-end",
+      "name": "Three Way Ball Valve Flange End 150#",
+      "shortName": "3-Way Ball Valve F/E",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Three Way Ball Valve Flange End with T-Port & L-Port ball designs. Available in WCB, MS, and SS materials. Sizes 15mm to 150mm.",
+      "applications": ["Flow Diversion", "Mixing", "Bypass Systems", "Process Industries"],
+      "featured": true
+    },
+    {
+      "id": "ic-flush-bottom-ball-valve",
+      "name": "I.C. Flush Bottom Ball Valve Flange End",
+      "shortName": "IC Flush Bottom Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Flush Bottom Ball Valve with 45° or 90° lever operation. Class 150. Sizes 25x40mm to 80x100mm. For tank bottom applications.",
+      "applications": ["Tank Bottom", "Reactor Vessels", "Chemical Storage", "Pharmaceutical"],
+      "featured": true
+    },
+    {
+      "id": "jacketed-ball-valve-flange-end",
+      "name": "Jacketed Ball Valve Flange End 150#",
+      "shortName": "Jacketed Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Jacketed Ball Valve with steam/thermal oil jacket for temperature control. Class 150. Sizes 25x40mm to 100x150mm. MS/SS 304/316 construction.",
+      "applications": ["Heated Media", "Viscous Fluids", "Chemical Process", "Food & Pharma"],
+      "featured": true
+    },
+    {
+      "id": "ic-tc-end-ball-valve",
+      "name": "I.C. Ball Valve Tri-Clover (TC) End",
+      "shortName": "IC TC Ball Valve",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Ball Valve with Tri-Clover (TC) sanitary connections. Class 150. Sizes 15mm to 50mm. For hygienic applications.",
+      "applications": ["Food & Beverage", "Pharmaceutical", "Dairy", "Biotech"],
+      "featured": true
     }
   ]
 }
