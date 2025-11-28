@@ -1,0 +1,146 @@
+[
+  {
+    "id": "uae",
+    "name": "United Arab Emirates",
+    "shortName": "UAE",
+    "cities": ["Abu Dhabi", "Dubai", "Sharjah", "Ajman"],
+    "description": "Leading industrial valve manufacturer and exporter serving UAE's oil & gas, petrochemical, water treatment, and power generation sectors.",
+    "keywords": "valve manufacturer UAE, valve supplier Dubai, industrial valves Abu Dhabi, gate valve UAE, ball valve Dubai, butterfly valve Sharjah"
+  },
+  {
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "shortName": "Saudi Arabia",
+    "cities": ["Riyadh", "Jeddah", "Dammam", "Khobar"],
+    "description": "Trusted valve exporter to Saudi Arabia's petrochemical, oil & gas, desalination, and industrial sectors with ISO certified quality.",
+    "keywords": "valve manufacturer Saudi Arabia, valve supplier Riyadh, industrial valves Jeddah, gate valve Dammam, ball valve Saudi"
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "shortName": "Qatar",
+    "cities": ["Doha", "Al Wakrah", "Al Rayyan"],
+    "description": "Premium industrial valve supplier for Qatar's LNG, petrochemical, and infrastructure projects with complete material traceability.",
+    "keywords": "valve manufacturer Qatar, valve supplier Doha, industrial valves Qatar, LNG valves Qatar, ball valve Doha"
+  },
+  {
+    "id": "oman",
+    "name": "Oman",
+    "shortName": "Oman",
+    "cities": ["Muscat", "Salalah", "Sohar"],
+    "description": "Reliable valve exporter to Oman's oil & gas, mining, and water treatment industries with API and ASME certified products.",
+    "keywords": "valve manufacturer Oman, valve supplier Muscat, industrial valves Oman, gate valve Muscat, ball valve Sohar"
+  },
+  {
+    "id": "kuwait",
+    "name": "Kuwait",
+    "shortName": "Kuwait",
+    "cities": ["Kuwait City", "Ahmadi", "Hawalli"],
+    "description": "Expert valve supplier for Kuwait's petrochemical, oil refining, and power generation sectors with 38+ years of experience.",
+    "keywords": "valve manufacturer Kuwait, valve supplier Kuwait City, industrial valves Kuwait, gate valve Kuwait, ball valve Ahmadi"
+  },
+  {
+    "id": "bahrain",
+    "name": "Bahrain",
+    "shortName": "Bahrain",
+    "cities": ["Manama", "Muharraq", "Riffa"],
+    "description": "Quality industrial valve exporter to Bahrain's oil & gas, aluminum, and water treatment industries.",
+    "keywords": "valve manufacturer Bahrain, valve supplier Manama, industrial valves Bahrain, gate valve Bahrain"
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "shortName": "Egypt",
+    "cities": ["Cairo", "Alexandria", "Giza", "Port Said"],
+    "description": "Leading valve manufacturer and exporter serving Egypt's oil & gas, water treatment, and industrial sectors.",
+    "keywords": "valve manufacturer Egypt, valve supplier Cairo, industrial valves Egypt, gate valve Alexandria, ball valve Egypt"
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "shortName": "South Africa",
+    "cities": ["Johannesburg", "Cape Town", "Durban", "Pretoria"],
+    "description": "Trusted industrial valve supplier for South Africa's mining, water treatment, and petrochemical industries.",
+    "keywords": "valve manufacturer South Africa, valve supplier Johannesburg, industrial valves Cape Town, mining valves South Africa"
+  },
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "shortName": "Nigeria",
+    "cities": ["Lagos", "Abuja", "Port Harcourt", "Kano"],
+    "description": "Premium valve exporter to Nigeria's oil & gas, petrochemical, and power generation sectors.",
+    "keywords": "valve manufacturer Nigeria, valve supplier Lagos, industrial valves Nigeria, oil gas valves Port Harcourt"
+  },
+  {
+    "id": "kenya",
+    "name": "Kenya",
+    "shortName": "Kenya",
+    "cities": ["Nairobi", "Mombasa", "Kisumu"],
+    "description": "Quality industrial valve supplier for Kenya's water treatment, agriculture, and manufacturing sectors.",
+    "keywords": "valve manufacturer Kenya, valve supplier Nairobi, industrial valves Kenya, water valves Mombasa"
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "shortName": "Singapore",
+    "cities": ["Singapore"],
+    "description": "High-performance industrial valve exporter to Singapore's petrochemical, marine, and pharmaceutical industries.",
+    "keywords": "valve manufacturer Singapore, valve supplier Singapore, industrial valves Singapore, marine valves Singapore"
+  },
+  {
+    "id": "malaysia",
+    "name": "Malaysia",
+    "shortName": "Malaysia",
+    "cities": ["Kuala Lumpur", "Johor Bahru", "Penang"],
+    "description": "Reliable valve supplier for Malaysia's oil & gas, palm oil, and manufacturing sectors.",
+    "keywords": "valve manufacturer Malaysia, valve supplier Kuala Lumpur, industrial valves Malaysia, palm oil valves"
+  },
+  {
+    "id": "indonesia",
+    "name": "Indonesia",
+    "shortName": "Indonesia",
+    "cities": ["Jakarta", "Surabaya", "Bandung"],
+    "description": "Expert industrial valve exporter to Indonesia's oil & gas, mining, and power generation industries.",
+    "keywords": "valve manufacturer Indonesia, valve supplier Jakarta, industrial valves Indonesia, mining valves Indonesia"
+  },
+  {
+    "id": "thailand",
+    "name": "Thailand",
+    "shortName": "Thailand",
+    "cities": ["Bangkok", "Chiang Mai", "Pattaya"],
+    "description": "Quality valve supplier for Thailand's petrochemical, automotive, and food processing industries.",
+    "keywords": "valve manufacturer Thailand, valve supplier Bangkok, industrial valves Thailand, petrochemical valves"
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "shortName": "Australia",
+    "cities": ["Sydney", "Melbourne", "Brisbane", "Perth"],
+    "description": "Premium industrial valve exporter to Australia's mining, water treatment, and oil & gas sectors.",
+    "keywords": "valve manufacturer Australia, valve supplier Sydney, industrial valves Australia, mining valves Perth"
+  },
+  {
+    "id": "usa",
+    "name": "United States",
+    "shortName": "USA",
+    "cities": ["Houston", "New York", "Los Angeles", "Chicago"],
+    "description": "High-quality industrial valve supplier for USA's oil & gas, petrochemical, and power generation industries.",
+    "keywords": "valve manufacturer USA, valve supplier Houston, industrial valves USA, oil gas valves Texas"
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "shortName": "Canada",
+    "cities": ["Toronto", "Vancouver", "Calgary", "Montreal"],
+    "description": "Trusted valve exporter to Canada's oil sands, mining, and water treatment sectors.",
+    "keywords": "valve manufacturer Canada, valve supplier Toronto, industrial valves Canada, oil sands valves Calgary"
+  },
+  {
+    "id": "uk",
+    "name": "United Kingdom",
+    "shortName": "UK",
+    "cities": ["London", "Manchester", "Birmingham", "Glasgow"],
+    "description": "Quality industrial valve supplier for UK's oil & gas, pharmaceutical, and water treatment industries.",
+    "keywords": "valve manufacturer UK, valve supplier London, industrial valves UK, pharmaceutical valves"
+  }
+]
