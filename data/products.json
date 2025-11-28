@@ -619,6 +619,66 @@
       "description": "Globe Valve Flange End Class 150. BS 5351/API 6D compliant. CF8/CF8M/CI/CS materials. Sizes 25mm to 300mm.",
       "applications": ["Steam Systems", "Oil Systems", "Air Systems", "Throttling Service"],
       "featured": true
+    },
+    {
+      "id": "ic-gate-valve-screw-end",
+      "name": "I.C. Gate Valve Screw End",
+      "shortName": "IC Gate Valve S/E",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Gate Valve with BSP/NPT threading. Class 150. Sizes 1/2\" to 2\". ASTM A351 CF8/CF8M materials.",
+      "applications": ["Steam Systems", "Water Systems", "Oil Systems", "Air Systems"],
+      "featured": true
+    },
+    {
+      "id": "ic-globe-valve-screw-end",
+      "name": "I.C. Globe Valve Screw End",
+      "shortName": "IC Globe Valve S/E",
+      "category": "Globe Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Globe Valve with BSP/NPT threading. Class 150. Sizes 1/2\" to 2\". For throttling and flow control.",
+      "applications": ["Steam Systems", "Water Systems", "Oil Systems", "Air Systems"],
+      "featured": true
+    },
+    {
+      "id": "forged-steel-gate-globe-valve",
+      "name": "Forged Steel Gate & Globe Valve Class 800/1500",
+      "shortName": "FS Gate/Globe Valve",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Forged Steel Gate & Globe Valves Class 800/1500. ASTM A105/F11/F22/F304/F316. High pressure up to 5400 PSIG. Sizes 1/2\" to 2\".",
+      "applications": ["High Pressure", "Oil & Gas", "Power Plants", "Petrochemical"],
+      "featured": true
+    },
+    {
+      "id": "ic-disc-check-valve",
+      "name": "I.C. Disc Check Valve (DCV) Non Return Valve",
+      "shortName": "IC Disc Check Valve",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Disc Check Valve (DCV) PN16/PN40. ASTM A351 CF8/CF8M. Sizes 15mm to 200mm. Spring loaded disc design.",
+      "applications": ["Steam Systems", "Water Systems", "Air Systems", "Gas Systems"],
+      "featured": true
+    },
+    {
+      "id": "ic-wafer-check-valve",
+      "name": "I.C. Wafer Check Valve (NRV)",
+      "shortName": "IC Wafer Check Valve",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Investment Cast Wafer Check Valve PN10. API 6D/ANSI B16.34 compliant. IC CF8/CF8M. Sizes 40mm to 300mm.",
+      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "featured": true
+    },
+    {
+      "id": "wafer-check-valve-barstock",
+      "name": "Wafer Check Valve Barstock Type",
+      "shortName": "Wafer Check Barstock",
+      "category": "Check Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "Wafer Check Valve Barstock PN10/PN16. CI/MS/SS construction. Sizes 40mm to 300mm. Nitrile/EPDM O-ring.",
+      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "featured": true
     }
   ]
 }
