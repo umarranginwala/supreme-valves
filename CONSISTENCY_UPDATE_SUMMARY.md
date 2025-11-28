@@ -74,7 +74,7 @@ Successfully updated **67 HTML pages** across the entire Supreme Valves website 
     <li><a href="projects.html">Projects</a></li>
     <li><a href="resources.html">Resources</a></li>
     <li><a href="contact.html">Contact Us</a></li>
-    <li><a href="ibr-certified-valve-manufacturer.html">IBR Certified Valves</a></li>
+    <li><a href="ibr-certified-valve-exporter.html">IBR Certified Valves</a></li>
     <li><a href="valve-exporter-middle-east.html">Export to Middle East</a></li>
 </ul>
 ```
@@ -119,7 +119,7 @@ Successfully updated **67 HTML pages** across the entire Supreme Valves website 
 - ✅ projects.html
 - ✅ resources.html
 - ✅ faqs.html
-- ✅ ibr-certified-valve-manufacturer.html
+- ✅ ibr-certified-valve-exporter.html
 - ✅ valve-exporter-middle-east.html
 
 ### Product Pages (36 files)

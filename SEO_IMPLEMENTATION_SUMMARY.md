@@ -9,17 +9,17 @@
 ### 1. Homepage Optimization (`index.html`)
 
 **Primary Keywords Added:**
-- Industrial valve manufacturer India
+- Industrial valve exporter India
 - Valve exporter Ahmedabad Gujarat
-- Gate valve manufacturer
+- Gate valve exporter
 - Globe valve supplier
 - Ball valve exporter
-- Check valve manufacturer
-- IBR certified valve manufacturer
+- Check valve exporter
+- IBR certified valve exporter
 - API 600 gate valve
 - ASME B16.34 valve
-- Valve manufacturer Ahmedabad
-- Stainless steel valve manufacturer
+- Valve exporter Ahmedabad
+- Stainless steel valve exporter
 - Carbon steel valve supplier
 - Duplex steel valve exporter
 - Valve exporter Middle East
@@ -41,7 +41,7 @@
 #### Gate Valve Page (`products/gate-valve.html`)
 
 **Keywords Optimized:**
-- Gate valve manufacturer India
+- Gate valve exporter India
 - API 600 gate valve
 - Rising stem gate valve
 - Non-rising stem gate valve
@@ -55,9 +55,9 @@
 - Cast steel gate valve
 
 **Changes:**
-- ✅ Title: "Gate Valve Manufacturer & Exporter India | API 600 Gate Valves"
+- ✅ Title: "Gate Valve Exporter & Exporter India | API 600 Gate Valves"
 - ✅ Enhanced meta description with API standards and materials
-- ✅ Updated H1 to "Gate Valve Manufacturer & Exporter"
+- ✅ Updated H1 to "Gate Valve Exporter & Exporter"
 - ✅ Added detailed product description with technical keywords
 - ✅ Material sections now include ASTM grades
 - ✅ Added MSS SP-70 to standards list
@@ -65,7 +65,7 @@
 #### Ball Valve Page (`products/ball-valve.html`)
 
 **Keywords Optimized:**
-- Ball valve manufacturer India
+- Ball valve exporter India
 - Floating ball valve
 - Trunnion mounted ball valve
 - 3 piece ball valve
@@ -77,9 +77,9 @@
 - Full bore ball valve
 
 **Changes:**
-- ✅ Title: "Ball Valve Manufacturer & Exporter India | Floating & Trunnion Ball Valves"
+- ✅ Title: "Ball Valve Exporter & Exporter India | Floating & Trunnion Ball Valves"
 - ✅ Enhanced meta description with valve types
-- ✅ Updated H1 to "Ball Valve Manufacturer & Exporter"
+- ✅ Updated H1 to "Ball Valve Exporter & Exporter"
 - ✅ Added API 6D, API 608, ISO 17292 standards
 - ✅ Material sections include specific ASTM grades
 - ✅ Emphasized quarter-turn operation and applications
@@ -88,16 +88,16 @@
 
 ### 3. New Landing Pages Created
 
-#### A. IBR Certified Valve Manufacturer (`ibr-certified-valve-manufacturer.html`)
+#### A. IBR Certified Valve Exporter (`ibr-certified-valve-exporter.html`)
 
 **Target Keywords:**
-- IBR certified valve manufacturer
+- IBR certified valve exporter
 - IBR valve supplier India
 - IBR gate valve
 - IBR globe valve
 - IBR check valve
 - IBR safety valve
-- Boiler valve manufacturer
+- Boiler valve exporter
 - IBR certification valves
 
 **Page Sections:**
@@ -197,7 +197,7 @@
 
 ### Short-Term (1-3 Months)
 - **Improved Rankings:** 20-30 keywords expected to enter top 50
-- **Local SEO:** Strong positioning for "valve manufacturer Ahmedabad"
+- **Local SEO:** Strong positioning for "valve exporter Ahmedabad"
 - **Long-Tail Traffic:** Increased traffic from technical searches
 - **Featured Snippets:** Potential for IBR certification and export process
 
@@ -222,7 +222,7 @@
 1. **Update Sitemap**
    ```bash
    # Add new landing pages to sitemap.xml
-   - ibr-certified-valve-manufacturer.html
+   - ibr-certified-valve-exporter.html
    - valve-exporter-middle-east.html
    ```
 
@@ -238,15 +238,15 @@
 
 4. **Google Business Profile**
    - Update business description with new keywords
-   - Add "IBR Certified Valve Manufacturer" to services
+   - Add "IBR Certified Valve Exporter" to services
    - Add "Valve Exporter to Middle East" to services
 
 ### Short-Term Actions (Month 1)
 
 5. **Create Additional Landing Pages**
-   - [ ] Valve Manufacturer Ahmedabad (local SEO)
+   - [ ] Valve Exporter Ahmedabad (local SEO)
    - [ ] API 600 Gate Valve Specifications
-   - [ ] Stainless Steel Valve Manufacturer
+   - [ ] Stainless Steel Valve Exporter
    - [ ] Custom Valve Solutions
 
 6. **Optimize Remaining Product Pages**
@@ -285,7 +285,7 @@
 11. **Geographic Landing Pages**
     - [ ] Valve Supplier UAE
     - [ ] Valve Exporter Saudi Arabia
-    - [ ] Valve Manufacturer for Qatar Projects
+    - [ ] Valve Exporter for Qatar Projects
 
 12. **Schema Markup Enhancement**
     - [ ] Add LocalBusiness schema to homepage
@@ -422,7 +422,7 @@ All optimized pages include:
    - Add to Alibaba
 
 4. **Email Signature**
-   - Add "IBR Certified Valve Manufacturer"
+   - Add "IBR Certified Valve Exporter"
    - Add "Exporter to Middle East"
    - Link to new landing pages
 

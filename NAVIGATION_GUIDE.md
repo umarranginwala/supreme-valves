@@ -2,14 +2,14 @@
 
 ## 🗺️ Navigation Paths to New Landing Pages
 
-### 1️⃣ **IBR Certified Valve Manufacturer Page**
-**URL:** `ibr-certified-valve-manufacturer.html`
+### 1️⃣ **IBR Certified Valve Exporter Page**
+**URL:** `ibr-certified-valve-exporter.html`
 
 #### How Visitors Will Find This Page:
 
 **A. From Homepage (`index.html`)**
 - ✅ **Inline Link** in "Why Choose Supreme Valves" section:
-  - Text: "IBR & ISO Certified: IBR certified valve manufacturer..."
+  - Text: "IBR & ISO Certified: IBR certified valve exporter..."
   - Link: "Learn More →" (red underlined link)
   
 - ✅ **Prominent CTA Button** below main content:
@@ -32,10 +32,10 @@
 
 **D. From Search Engines**
 - ✅ **Organic Search** for keywords:
-  - "IBR certified valve manufacturer"
+  - "IBR certified valve exporter"
   - "IBR valve supplier India"
   - "IBR gate valve"
-  - "Boiler valve manufacturer"
+  - "Boiler valve exporter"
   - "IBR certification valves"
 
 ---
@@ -185,9 +185,9 @@
 
 ### User Journey Examples
 
-**Journey 1: Boiler Manufacturer**
+**Journey 1: Boiler Exporter**
 ```
-Google Search: "IBR certified valve manufacturer"
+Google Search: "IBR certified valve exporter"
     ↓
 Lands on: IBR Certification Page
     ↓
@@ -245,11 +245,11 @@ Explores: Product range and applications
 
 ### IBR Certification Page
 **Target Keywords:**
-- IBR certified valve manufacturer
+- IBR certified valve exporter
 - IBR valve supplier India
 - IBR gate valve
 - IBR globe valve
-- Boiler valve manufacturer
+- Boiler valve exporter
 
 **Expected Rankings:** Top 10 within 3-6 months
 

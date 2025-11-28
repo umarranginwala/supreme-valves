@@ -190,7 +190,7 @@ Hope it helps! [Link]"
 #### LinkedIn Ads:
 - Sponsored content
 - Target: Mechanical Engineers, Plant Managers
-- Industry: Oil & Gas, Chemical, Manufacturing
+- Industry: Oil & Gas, Chemical, Exporting
 
 #### Facebook Ads:
 - Promote to industry professionals
