@@ -1390,6 +1390,74 @@ tbody tr:hover {
 
 /* 
 ==============================================
+    8. Social Media Section
+==============================================
+*/
+
+.social-section {
+    padding: 4rem 0;
+    background-color: var(--white-color);
+}
+
+.social-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+    margin-top: 3rem;
+}
+
+.social-col {
+    background: var(--lighter-gray);
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: var(--shadow-md);
+    text-align: center;
+}
+
+.social-col h3 {
+    margin-bottom: 1.5rem;
+    color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+}
+
+.social-col h3 i {
+    font-size: 1.5rem;
+}
+
+.fb-col h3 i {
+    color: #1877F2;
+}
+
+.ig-col h3 i {
+    color: #E4405F;
+}
+
+.fb-container {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.ig-feed-placeholder {
+    padding: 2rem;
+    background: #fff;
+    border-radius: 12px;
+    border: 2px dashed #ddd;
+}
+
+@media (max-width: 768px) {
+    .social-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+/* 
+==============================================
     9. Responsive Design
 ==============================================
 */
