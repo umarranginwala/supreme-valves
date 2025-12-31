@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You | Supreme Valves India</title>
+    <meta name="description" content="Thank you for contacting Supreme Valves India. We have received your inquiry and will get back to you shortly.">
+    <link rel="icon" type="image/svg+xml" href="assets/Supreme Valves.svg">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    
+    <!-- Google Customer Reviews Opt-in Integration -->
+    <script src="https://apis.google.com/js/platform.js?onload=renderOptIn" async defer></script>
+    <script>
+      window.renderOptIn = function() {
+        // Retrieve data from URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const email = urlParams.get('email') || 'customer@example.com';
+        const orderId = 'REQ-' + Date.now(); // Generate a unique request ID
+        
+        // Calculate estimated delivery date (e.g., 7 days from now)
+        const deliveryDate = new Date();
+        deliveryDate.setDate(deliveryDate.getDate() + 7);
+        const formattedDate = deliveryDate.toISOString().split('T')[0];
+
+        window.gapi.load('surveyoptin', function() {
+          window.gapi.surveyoptin.render(
+            {
+              "merchant_id": 5702061526,
+              "order_id": orderId,
+              "email": email,
+              "delivery_country": "IN",
+              "estimated_delivery_date": formattedDate
+            });
+        });
+      }
+    </script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="index.html"><img src="assets/Supreme Valves.svg" alt="Supreme Valves India Logo"></a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li class="dropdown">
+                        <a href="products.html" class="dropbtn">Products <i class="fas fa-chevron-down"></i></a>
+                        <div class="dropdown-content" id="products-dropdown">
+                            <!-- Products will be dynamically loaded here -->
+                        </div>
+                    </li>
+                    <li><a href="industries.html">Industries</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="resources.html">Resources</a></li>
+                    <li><a href="faqs.html">FAQs</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container" style="text-align: center; padding: 5rem 2rem;">
+        <div style="background: var(--lighter-gray); padding: 4rem; border-radius: 16px; box-shadow: var(--shadow-md); max-width: 700px; margin: 0 auto;">
+            <i class="fas fa-check-circle" style="font-size: 5rem; color: #28a745; margin-bottom: 2rem;"></i>
+            <h1 style="color: var(--primary-color); margin-bottom: 1rem;">Thank You!</h1>
+            <p style="font-size: 1.2rem; line-height: 1.8; color: var(--text-color); margin-bottom: 2rem;">
+                Your inquiry has been successfully submitted. Our technical team will review your requirements and contact you within 24 hours.
+            </p>
+            <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                <a href="index.html" class="btn btn-primary">Back to Home</a>
+                <a href="products.html" class="btn btn-secondary">Explore Products</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer-new">
+        <!-- Footer content will be consistent with other pages -->
+        <div class="container" style="text-align: center; color: var(--text-light); padding-top: 2rem; border-top: 1px solid var(--border-color);">
+            &copy; 2025 Supreme Valves India. All Rights Reserved.
+        </div>
+    </footer>
+
+    <script src="js/products.js"></script>
+</body>
+</html>
