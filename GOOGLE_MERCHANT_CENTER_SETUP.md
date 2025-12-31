@@ -6,7 +6,7 @@ This guide will help you get your products listed on Google Shopping tab to driv
 ## Prerequisites
 - Google Search Console account (already set up)
 - Google Merchant Center account (free)
-- Product feed XML file (already created: `product-feed.xml`)
+- Product feed XML file (already created: `google_feed.xml`)
 
 ---
 
@@ -47,7 +47,7 @@ This guide will help you get your products listed on Google Shopping tab to driv
 4. Choose **Upload** as input method
 5. Select **Scheduled fetch** and enter:
    ```
-   https://www.supremevalves.in/product-feed.xml
+   https://www.supremevalves.in/google_feed.xml
    ```
 6. Set fetch frequency: **Daily** (recommended)
 7. Click **Create Feed**
@@ -119,13 +119,18 @@ This guide will help you get your products listed on Google Shopping tab to driv
 
 ## Product Feed Requirements
 
-Your `product-feed.xml` already includes these required fields:
+Your `google_feed.xml` already includes these required fields:
 
 ### Required Fields
-- ✅ `id` - Unique product identifier
-- ✅ `title` - Product name (150 characters max)
-- ✅ `description` - Product description (5000 characters max)
-- ✅ `link` - Product page URL
+- `id` - Unique product identifier
+- `title` - Product name (150 characters max)
+- `description` - Product description (5000 characters max)
+- `link` - Product page URL
+- `image_link` - Main product image URL
+- `price` - Product price with currency
+- `availability` - in stock / out of stock / preorder
+- `condition` - new / refurbished / used
+- `brand` - Supreme Valves India
 - ✅ `image_link` - Main product image URL
 - ✅ `price` - Product price with currency
 - ✅ `availability` - in stock / out of stock / preorder
@@ -207,7 +212,7 @@ Make sure these images are accessible:
 
 When you add new products:
 
-1. **Update product-feed.xml** with new product entries
+1. **Update google_feed.xml** with new product entries
 2. **Commit and push** to GitHub (auto-deploys to website)
 3. **Wait for scheduled fetch** (daily) or manually fetch in Merchant Center
 4. **Check Diagnostics** for any errors
@@ -242,7 +247,7 @@ For Merchant Center account issues:
 
 Your product feed is accessible at:
 ```
-https://www.supremevalves.in/product-feed.xml
+https://www.supremevalves.in/google_feed.xml
 ```
 
 This feed currently includes:

@@ -1,0 +1,3 @@
+Found 2 broken links:
+In projects.html: ${project.image} (points to non-existent /Users/umarranginwala/Downloads/supremevalves_site_v3/${project.image})
+In projects.html: projects/${project.id}.html (points to non-existent /Users/umarranginwala/Downloads/supremevalves_site_v3/projects/${project.id}.html)

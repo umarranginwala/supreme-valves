@@ -5,4 +5,4 @@ Allow: /
 Sitemap: https://www.supremevalves.in/sitemap.xml
 
 # Product Feed for Google Merchant Center
-# Access at: https://www.supremevalves.in/product-feed.xml
+# Access at: https://www.supremevalves.in/google_feed.xml

@@ -716,9 +716,69 @@
       "shortName": "IC Y Strainer F/E",
       "category": "Strainers",
       "image": "assets/Valves and Projects/hero_image.jpeg",
-      "description": "Investment Cast Y Strainer Flange End Class 150. ANSI B16.5 flanges. Sizes 25mm to 150mm. ASTM A351 CF8/CF8M with SS 304/316 screen.",
-      "applications": ["Water Systems", "Oil Systems", "Steam Systems", "Pipeline Protection"],
+      "description": "Investment Cast Y Strainer with Flange End Class 150. ASTM A351 CF8/CF8M materials with SS screen. For pipeline protection.",
+      "applications": ["Industrial Process", "Water Systems", "Steam Systems", "Petrochemical"],
       "featured": true
+    },
+    {
+      "id": "slab-gate-valve-30-inch-cl300",
+      "name": "30\" Full Bore Through Conduit Slab Gate Valve CL300",
+      "shortName": "30\" Slab Gate Valve CL300",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "30 Inch Full Bore Through Conduit Slab Gate Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
+      "applications": ["Oil & Gas Pipelines", "Petrochemical", "Transmission Lines"],
+      "featured": false
+    },
+    {
+      "id": "ball-valve-30-inch-cl300",
+      "name": "30\" Full Bore Ball Valve CL300",
+      "shortName": "30\" Ball Valve CL300",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "30 Inch Full Bore Ball Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
+      "applications": ["Oil & Gas Pipelines", "Water Transmission", "Industrial Process"],
+      "featured": false
+    },
+    {
+      "id": "sandwich-valve-30-inch-cl300",
+      "name": "30\" Sandwich Valve CL300",
+      "shortName": "30\" Sandwich Valve CL300",
+      "category": "Specialty Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "30 Inch Sandwich Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
+      "applications": ["Hot Tapping", "Line Plugging", "Pipeline Maintenance"],
+      "featured": false
+    },
+    {
+      "id": "slab-gate-valve-40-inch-cl300",
+      "name": "40\" Full Bore Through Conduit Slab Gate Valve CL300",
+      "shortName": "40\" Slab Gate Valve CL300",
+      "category": "Gate Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "40 Inch Full Bore Through Conduit Slab Gate Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
+      "applications": ["Large Diameter Pipelines", "Oil & Gas", "Water Infrastructure"],
+      "featured": false
+    },
+    {
+      "id": "ball-valve-40-inch-cl300",
+      "name": "40\" Full Bore Ball Valve CL300",
+      "shortName": "40\" Ball Valve CL300",
+      "category": "Quarter-Turn Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "40 Inch Full Bore Ball Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
+      "applications": ["Oil & Gas Pipelines", "Large Scale Water Projects", "Industrial"],
+      "featured": false
+    },
+    {
+      "id": "sandwich-valve-40-inch-cl300",
+      "name": "40\" Sandwich Valve CL300",
+      "shortName": "40\" Sandwich Valve CL300",
+      "category": "Specialty Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "40 Inch Sandwich Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
+      "applications": ["Pipeline Intervention", "Hot Tapping", "Major Repairs"],
+      "featured": false
     },
     {
       "id": "ci-y-strainer-screw-end",

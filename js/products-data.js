@@ -32,7 +32,9 @@ const productCategories = {
             { name: "IC TC End Ball Valve", url: "products/ic-tc-end-ball-valve.html", tags: ["tri-clamp", "sanitary"] },
             { name: "IC Three Way Ball Valve Screw End", url: "products/ic-three-way-ball-valve-screw-end.html", tags: ["three-way"] },
             { name: "Three Way Ball Valve Flange End", url: "products/three-way-ball-valve-flange-end.html", tags: ["three-way"] },
-            { name: "CI MS SS Ball Valve 1PC Screw End", url: "products/ci-ms-ss-ball-valve-1pc-screw-end.html", tags: ["multi-material"] }
+            { name: "CI MS SS Ball Valve 1PC Screw End", url: "products/ci-ms-ss-ball-valve-1pc-screw-end.html", tags: ["multi-material"] },
+            { name: "30\" Full Bore Ball Valve CL300", url: "products/ball-valve-30-inch-cl300.html", tags: ["30-inch", "cl300", "large-diameter", "wcb"] },
+            { name: "40\" Full Bore Ball Valve CL300", url: "products/ball-valve-40-inch-cl300.html", tags: ["40-inch", "cl300", "large-diameter", "wcb"] }
         ]
     },
     "gate-valves": {
@@ -49,7 +51,9 @@ const productCategories = {
             { name: "CI Gate Valve Flange End", url: "products/ci-gate-valve-flange-end.html", tags: ["cast-iron"] },
             { name: "SS Gate Valve Flange End", url: "products/ss-gate-valve-flange-end.html", tags: ["stainless-steel"] },
             { name: "IC Gate Valve Screw End", url: "products/ic-gate-valve-screw-end.html", tags: ["threaded"] },
-            { name: "Forged Steel Gate Globe Valve", url: "products/forged-steel-gate-globe-valve.html", tags: ["forged", "high-pressure"] }
+            { name: "Forged Steel Gate Globe Valve", url: "products/forged-steel-gate-globe-valve.html", tags: ["forged", "high-pressure"] },
+            { name: "30\" Slab Gate Valve CL300", url: "products/slab-gate-valve-30-inch-cl300.html", tags: ["30-inch", "cl300", "slab-gate", "wcb"] },
+            { name: "40\" Slab Gate Valve CL300", url: "products/slab-gate-valve-40-inch-cl300.html", tags: ["40-inch", "cl300", "slab-gate", "wcb"] }
         ]
     },
     "globe-valves": {
@@ -158,7 +162,9 @@ const productCategories = {
             { name: "Pinch Valve Sleeve Type", url: "products/pinch-valve-sleeve-type.html", tags: ["pinch", "slurry"] },
             { name: "Blow Down Valve", url: "products/blow-down-valve.html", tags: ["boiler", "blowdown"] },
             { name: "Flush Bottom Valve", url: "products/flush-bottom-valve.html", tags: ["tank-bottom"] },
-            { name: "Custom Valve", url: "products/custom-valve.html", tags: ["custom", "engineered"] }
+            { name: "Custom Valve", url: "products/custom-valve.html", tags: ["custom", "engineered"] },
+            { name: "30\" Sandwich Valve CL300", url: "products/sandwich-valve-30-inch-cl300.html", tags: ["30-inch", "cl300", "sandwich-valve", "wcb"] },
+            { name: "40\" Sandwich Valve CL300", url: "products/sandwich-valve-40-inch-cl300.html", tags: ["40-inch", "cl300", "sandwich-valve", "wcb"] }
         ]
     },
     "steam-traps": {

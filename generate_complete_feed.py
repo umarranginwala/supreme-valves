@@ -277,7 +277,7 @@ def main():
     xml_content = generate_feed_xml(products)
     
     # Write to file
-    output_file = "product-feed.xml"
+    output_file = 'google_feed.xml'
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(xml_content)
     

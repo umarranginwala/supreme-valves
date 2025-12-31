@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
+<head><meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Major Projects & Case Studies | Supreme Valves India</title>
     <meta name="description" content="Explore our major valve supply projects across Oil & Gas, Power Generation, Water Treatment, and Chemical Processing industries. Case studies from Saudi Arabia, UAE, Singapore, Australia, and Canada.">
     <meta name="keywords" content="valve projects, industrial valve case studies, valve supply projects, oil and gas valves, power plant valves, desalination valves">
     <link rel="canonical" href="https://www.supremevalves.in/projects.html">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    
+    
     
     <script type="application/ld+json">
     {
@@ -19,9 +18,14 @@
       "url": "https://www.supremevalves.in/projects.html"
     }
     </script>
-</head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/product-search.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"></head>
 <body>
-    <header>
+                    <header>
         <div class="container">
             <div class="logo">
                 <a href="index.html"><img src="assets/Supreme Valves.svg" alt="Supreme Valves India Logo"></a>
@@ -32,10 +36,12 @@
                     <li><a href="about.html">About Us</a></li>
                     <li class="dropdown">
                         <a href="products.html" class="dropbtn">Products <i class="fas fa-chevron-down"></i></a>
-                        <div class="dropdown-content" id="products-dropdown"></div>
+                        <div class="dropdown-content" id="products-dropdown">
+                            <!-- Products will be dynamically loaded here -->
+                        </div>
                     </li>
                     <li><a href="industries.html">Industries</a></li>
-                    <li><a href="projects.html" class="active">Projects</a></li>
+                    <li><a href="projects.html">Projects</a></li>
                     <li><a href="resources.html">Resources</a></li>
                     <li><a href="faqs.html">FAQs</a></li>
                     <li><a href="blog.html">Blog</a></li>
@@ -75,20 +81,22 @@
         </section>
 
         <!-- Filter Buttons -->
-        <section style="margin-bottom: 3rem;">
-            <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-                <button class="filter-btn active" data-category="all" style="padding: 0.75rem 1.5rem; border: 2px solid var(--accent-color); background: var(--accent-color); color: white; border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.3s;">All Projects</button>
-                <button class="filter-btn" data-category="Oil & Gas" style="padding: 0.75rem 1.5rem; border: 2px solid var(--accent-color); background: white; color: var(--accent-color); border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.3s;">Oil & Gas</button>
-                <button class="filter-btn" data-category="Water Treatment" style="padding: 0.75rem 1.5rem; border: 2px solid var(--accent-color); background: white; color: var(--accent-color); border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.3s;">Water Treatment</button>
-                <button class="filter-btn" data-category="Power Generation" style="padding: 0.75rem 1.5rem; border: 2px solid var(--accent-color); background: white; color: var(--accent-color); border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.3s;">Power Generation</button>
-                <button class="filter-btn" data-category="Chemical Processing" style="padding: 0.75rem 1.5rem; border: 2px solid var(--accent-color); background: white; color: var(--accent-color); border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.3s;">Chemical</button>
-                <button class="filter-btn" data-category="Pharmaceutical" style="padding: 0.75rem 1.5rem; border: 2px solid var(--accent-color); background: white; color: var(--accent-color); border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.3s;">Pharmaceutical</button>
+        <section class="container" style="padding-top: 0;">
+            <div class="category-filter-buttons">
+                <button class="filter-btn active" data-category="all">All Projects</button>
+                <button class="filter-btn" data-category="Oil & Gas">Oil & Gas</button>
+                <button class="filter-btn" data-category="Water Treatment">Water Treatment</button>
+                <button class="filter-btn" data-category="Power Generation">Power Generation</button>
+                <button class="filter-btn" data-category="Chemical Processing">Chemical</button>
+                <button class="filter-btn" data-category="Pharmaceutical">Pharmaceutical</button>
             </div>
         </section>
 
         <!-- Projects Grid -->
-        <section id="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 2.5rem; margin-bottom: 4rem;">
-            <!-- Projects will be loaded here dynamically -->
+        <section class="container" style="padding-top: 0;">
+            <div id="projects-grid" class="product-grid-new">
+                <!-- Projects will be loaded here dynamically -->
+            </div>
         </section>
 
         <!-- CTA Section -->
@@ -102,7 +110,7 @@
         </section>
     </main>
 
-    <footer class="footer-new">
+                    <footer class="footer-new">
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col footer-products-col">
@@ -138,69 +146,16 @@
                         <li><a href="docs/technical-resources/technical-resources.html">Technical Resources</a></li>
                     </ul>
                 </div>
-                <div class="footer-col">
-                    <h4>Global Presence</h4>
-                    <ul>
-                        <li><a href="countries/uae.html">UAE</a></li>
-                        <li><a href="countries/saudi-arabia.html">Saudi Arabia</a></li>
-                        <li><a href="countries/qatar.html">Qatar</a></li>
-                        <li><a href="countries/oman.html">Oman</a></li>
-                        <li><a href="countries/kuwait.html">Kuwait</a></li>
-                        <li><a href="countries/bahrain.html">Bahrain</a></li>
-                        <li><a href="countries/egypt.html">Egypt</a></li>
-                        <li><a href="countries/south-africa.html">South Africa</a></li>
-                        <li><a href="countries/nigeria.html">Nigeria</a></li>
-                        <li><a href="countries/kenya.html">Kenya</a></li>
-                        <li><a href="countries/singapore.html">Singapore</a></li>
-                        <li><a href="countries/malaysia.html">Malaysia</a></li>
-                        <li><a href="countries/indonesia.html">Indonesia</a></li>
-                        <li><a href="countries/thailand.html">Thailand</a></li>
-                        <li><a href="countries/australia.html">Australia</a></li>
-                        <li><a href="countries/usa.html">USA</a></li>
-                        <li><a href="countries/canada.html">Canada</a></li>
-                        <li><a href="countries/uk.html">UK</a></li>
-                    </ul>
+            </div>
+            <div class="footer-bottom">
+                <div class="footer-company-details">
+                    <p>&copy; 2025 Supreme Valves India. All Rights Reserved. | Managed by <a href="https://www.social-sense.in" target="_blank" style="color: var(--accent-color);">Social Sense</a></p>
                 </div>
-            </div>
-            
-            <!-- Company Details Section -->
-            <div class="footer-company-details">
-                <div class="company-info-grid">
-                    <div class="company-info-item">
-                        <i class="fas fa-map-marker-alt"></i>
-                        <div>
-                            <h5>India Office</h5>
-                            <p>Ranginwala Building, Relief Road<br>Ahmedabad - 380001, Gujarat, India</p>
-                        </div>
-                    </div>
-                    <div class="company-info-item">
-                        <i class="fas fa-globe"></i>
-                        <div>
-                            <h5>International Offices</h5>
-                            <p>Singapore: sg@supremevalves.in<br>
-                            Sydney, Australia: aus@supremevalves.in<br>
-                            Mississauga, Canada: ca@supremevalves.in</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="footer-socials">
-                <a href="https://www.facebook.com/p/Supreme-Enterprise-61566023002189/" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                <a href="https://www.instagram.com/supremevalvesindia/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                <a href="https://www.linkedin.com/company/supreme-valves-india/posts/?feedView=all" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                <a href="https://x.com/SupremeValves" target="_blank" aria-label="Twitter/X"><i class="fab fa-x-twitter"></i></a>
-                <a href="https://www.youtube.com/@SupremeValves" target="_blank" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
-                <a href="#" target="_blank" aria-label="Pinterest"><i class="fab fa-pinterest-p"></i></a>
-            </div>
-            
-            <div class="copyright">
-                &copy; 2025 Supreme Valves India. All Rights Reserved.
             </div>
         </div>
     </footer>
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <script src="js/products.js"></script>
+    
+    
 
     <div class="whatsapp-widget">
         <a href="https://api.whatsapp.com/send/?phone=919773278770&text=Inquiry%20about%20Projects" target="_blank" aria-label="Chat with us on WhatsApp">
@@ -210,7 +165,7 @@
         </a>
     </div>
 
-    <script src="js/products.js"></script>
+    
     <script>
         // Load and display projects
         async function loadProjects() {
@@ -229,27 +184,33 @@
         function displayProjects(projects) {
             const grid = document.getElementById('projects-grid');
             grid.innerHTML = projects.map(project => `
-                <article class="project-card" data-category="${project.category}" style="background: var(--white-color); border-radius: 12px; overflow: hidden; box-shadow: var(--shadow-md); transition: transform 0.3s ease;">
-                    <img src="${project.image}" alt="${project.title}" style="width: 100%; height: 220px; object-fit: cover;">
-                    <div style="padding: 2rem;">
-                        <div style="display: flex; gap: 0.5rem; margin-bottom: 1rem; flex-wrap: wrap;">
-                            <span style="padding: 0.25rem 0.75rem; background: var(--accent-color); color: white; border-radius: 4px; font-size: 0.85rem;">${project.category}</span>
-                            <span style="padding: 0.25rem 0.75rem; background: var(--lighter-gray); color: var(--text-color); border-radius: 4px; font-size: 0.85rem;"><i class="fas fa-map-marker-alt"></i> ${project.location}</span>
+                <article class="modern-card project-card" data-category="${project.category}">
+                    <div class="card-image">
+                        <img src="${project.image}" alt="${project.title}">
+                        <div class="card-tag tag-primary">${project.category}</div>
+                    </div>
+                    <div class="card-content">
+                        <div style="color: var(--text-light); font-size: 0.85rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+                            <i class="fas fa-map-marker-alt"></i> ${project.location}
                         </div>
-                        <h3 style="font-size: 1.4rem; color: var(--primary-color); margin-bottom: 0.75rem;">${project.title}</h3>
-                        <p style="color: var(--text-light); font-size: 0.95rem; margin-bottom: 0.5rem;"><i class="far fa-building"></i> ${project.client}</p>
-                        <p style="color: var(--text-color); line-height: 1.6; margin-bottom: 1.5rem;">${project.shortDescription}</p>
-                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1.5rem; padding: 1rem; background: var(--lighter-gray); border-radius: 6px;">
+                        <h3>${project.title}</h3>
+                        <p style="color: var(--text-light); font-size: 0.9rem; margin-bottom: 1rem;"><i class="far fa-building"></i> ${project.client}</p>
+                        <p>${project.shortDescription}</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1.5rem; padding: 1rem; background: var(--lighter-gray); border-radius: 8px;">
                             <div>
-                                <p style="font-size: 0.85rem; color: var(--text-light); margin-bottom: 0.25rem;">Project Value</p>
-                                <p style="font-weight: 600; color: var(--primary-color);">${project.value}</p>
+                                <p style="font-size: 0.75rem; color: var(--text-light); margin-bottom: 0.25rem; text-transform: uppercase; font-weight: 600;">Project Value</p>
+                                <p style="font-weight: 700; color: var(--primary-color); margin: 0;">${project.value}</p>
                             </div>
                             <div>
-                                <p style="font-size: 0.85rem; color: var(--text-light); margin-bottom: 0.25rem;">Duration</p>
-                                <p style="font-weight: 600; color: var(--primary-color);">${project.duration}</p>
+                                <p style="font-size: 0.75rem; color: var(--text-light); margin-bottom: 0.25rem; text-transform: uppercase; font-weight: 600;">Duration</p>
+                                <p style="font-weight: 700; color: var(--primary-color); margin: 0;">${project.duration}</p>
                             </div>
                         </div>
-                        <a href="projects/${project.id}.html" class="btn btn-secondary" style="width: 100%; text-align: center;">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        
+                        <a href="projects/${project.id}.html" class="btn btn-secondary" style="width: 100%;">
+                            View Case Study <i class="fas fa-arrow-right"></i>
+                        </a>
                     </div>
                 </article>
             `).join('');
@@ -262,20 +223,14 @@
             filterBtns.forEach(btn => {
                 btn.addEventListener('click', () => {
                     // Update active state
-                    filterBtns.forEach(b => {
-                        b.style.background = 'white';
-                        b.style.color = 'var(--accent-color)';
-                        b.classList.remove('active');
-                    });
-                    btn.style.background = 'var(--accent-color)';
-                    btn.style.color = 'white';
+                    filterBtns.forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
 
                     // Filter projects
                     const category = btn.dataset.category;
                     projectCards.forEach(card => {
                         if (category === 'all' || card.dataset.category === category) {
-                            card.style.display = '';
+                            card.style.display = 'flex';
                             card.style.animation = 'fadeIn 0.5s ease';
                         } else {
                             card.style.display = 'none';
@@ -288,5 +243,11 @@
         // Load projects on page load
         document.addEventListener('DOMContentLoaded', loadProjects);
     </script>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="js/products-data.js"></script>
+    <script src="js/product-search.js"></script>
+    <script src="js/products.js"></script>
+    <script src="js/form-handler.js"></script>
+    <script src="js/navigation.js"></script>
 </body>
 </html>

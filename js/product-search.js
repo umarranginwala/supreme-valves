@@ -92,7 +92,7 @@ function renderProductCard(product) {
     const currentPath = window.location.pathname;
     
     // If we're already in a subdirectory, make URL relative
-    if (currentPath.includes('/products/') || currentPath.includes('/faqs/') || currentPath.includes('/docs/') || currentPath.includes('/blog/') || currentPath.includes('/countries/')) {
+    if (currentPath.includes('/products/') || currentPath.includes('/faqs/') || currentPath.includes('/docs/') || currentPath.includes('/blog/') || currentPath.includes('/countries/') || currentPath.includes('/projects/')) {
         // Remove 'products/' prefix since we need relative path
         productUrl = product.url.replace('products/', '');
         // Add ../ if we're in a different subdirectory
@@ -182,69 +182,87 @@ function renderProducts(products) {
     grid.innerHTML = products.map(product => renderProductCard(product)).join('');
 }
 
-// Initialize search bar in header
+// Initialize search bar in header and hero
 function initializeSearchBar() {
     const nav = document.querySelector('header nav ul');
-    if (!nav) return;
+    const heroSearchInput = document.getElementById('hero-product-search');
+    const heroSuggestionsDiv = document.getElementById('hero-search-suggestions');
 
-    // Create search container
-    const searchLi = document.createElement('li');
-    searchLi.className = 'search-container';
-    searchLi.innerHTML = `
-        <div class="search-wrapper">
-            <input type="text" 
-                   id="product-search-input" 
-                   placeholder="Search products..." 
-                   autocomplete="off">
-            <i class="fas fa-search search-icon"></i>
-            <div id="search-suggestions" class="search-suggestions"></div>
-        </div>
-    `;
+    // Header Search Initialization
+    if (nav) {
+        // Create search container
+        const searchLi = document.createElement('li');
+        searchLi.className = 'search-container';
+        searchLi.innerHTML = `
+            <div class="search-wrapper">
+                <input type="text" 
+                       id="product-search-input" 
+                       placeholder="Search products..." 
+                       autocomplete="off">
+                <i class="fas fa-search search-icon"></i>
+                <div id="search-suggestions" class="search-suggestions"></div>
+            </div>
+        `;
 
-    // Insert before contact link
-    const contactLi = Array.from(nav.children).find(li => 
-        li.querySelector('a[href="contact.html"]')
-    );
-    if (contactLi) {
-        nav.insertBefore(searchLi, contactLi);
-    } else {
-        nav.appendChild(searchLi);
+        // Insert before contact link
+        const contactLi = Array.from(nav.children).find(li => 
+            li.querySelector('a[href*="contact.html"]')
+        );
+        if (contactLi) {
+            nav.insertBefore(searchLi, contactLi);
+        } else {
+            nav.appendChild(searchLi);
+        }
+
+        const headerSearchInput = document.getElementById('product-search-input');
+        const headerSuggestionsDiv = document.getElementById('search-suggestions');
+
+        setupSearchInput(headerSearchInput, headerSuggestionsDiv);
     }
 
-    // Add search functionality
-    const searchInput = document.getElementById('product-search-input');
-    const suggestionsDiv = document.getElementById('search-suggestions');
+    // Hero Search Initialization (on Homepage)
+    if (heroSearchInput && heroSuggestionsDiv) {
+        setupSearchInput(heroSearchInput, heroSuggestionsDiv);
+    }
 
-    let searchTimeout;
-    searchInput.addEventListener('input', function() {
-        clearTimeout(searchTimeout);
-        const query = this.value;
+    function setupSearchInput(input, suggestionsDiv) {
+        let searchTimeout;
+        input.addEventListener('input', function() {
+            clearTimeout(searchTimeout);
+            const query = this.value;
 
-        searchTimeout = setTimeout(() => {
-            if (query.length >= 2) {
-                const suggestions = productSearch.getSuggestions(query, 8);
-                showSuggestions(suggestions, suggestionsDiv);
-            } else {
+            searchTimeout = setTimeout(() => {
+                if (query.length >= 2) {
+                    const suggestions = productSearch.getSuggestions(query, 8);
+                    showSuggestions(suggestions, suggestionsDiv);
+                } else {
+                    suggestionsDiv.style.display = 'none';
+                }
+            }, 300);
+        });
+
+        input.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                const query = this.value;
+                if (query.trim()) {
+                    // Determine path to products.html
+                    const currentPath = window.location.pathname;
+                    let productsPath = 'products.html';
+                    if (currentPath.includes('/products/') || currentPath.includes('/blog/') || currentPath.includes('/faqs/')) {
+                        productsPath = '../products.html';
+                    }
+                    window.location.href = `${productsPath}?search=${encodeURIComponent(query)}`;
+                }
+            }
+        });
+
+        // Close suggestions when clicking outside
+        document.addEventListener('click', function(e) {
+            if (!input.parentElement.contains(e.target)) {
                 suggestionsDiv.style.display = 'none';
             }
-        }, 300);
-    });
-
-    searchInput.addEventListener('keypress', function(e) {
-        if (e.key === 'Enter') {
-            const query = this.value;
-            if (query.trim()) {
-                window.location.href = `products.html?search=${encodeURIComponent(query)}`;
-            }
-        }
-    });
-
-    // Close suggestions when clicking outside
-    document.addEventListener('click', function(e) {
-        if (!searchLi.contains(e.target)) {
-            suggestionsDiv.style.display = 'none';
-        }
-    });
+        });
+    }
 }
 
 // Show search suggestions
@@ -256,12 +274,12 @@ function showSuggestions(suggestions, container) {
 
     const currentPath = window.location.pathname;
     
-    container.innerHTML = suggestions.map(product => {
+    let html = suggestions.map(product => {
         // Adjust URL path based on current location
         let productUrl = product.url;
         
-        // If we're already in a subdirectory, make URL relative
-        if (currentPath.includes('/products/') || currentPath.includes('/faqs/') || currentPath.includes('/docs/') || currentPath.includes('/blog/') || currentPath.includes('/countries/')) {
+        // Comprehensive relative path handling
+        if (currentPath.includes('/products/') || currentPath.includes('/faqs/') || currentPath.includes('/docs/') || currentPath.includes('/blog/') || currentPath.includes('/countries/') || currentPath.includes('/projects/')) {
             // Remove 'products/' prefix since we need relative path
             productUrl = product.url.replace('products/', '');
             // Add ../ if we're in a different subdirectory
@@ -272,7 +290,7 @@ function showSuggestions(suggestions, container) {
         
         return `
             <a href="${productUrl}" class="suggestion-item">
-                <i class="fas ${product.categoryIcon}"></i>
+                <i class="fas ${product.categoryIcon || 'fa-cog'}"></i>
                 <div>
                     <div class="suggestion-name">${product.name}</div>
                     <div class="suggestion-category">${product.category}</div>
@@ -281,7 +299,27 @@ function showSuggestions(suggestions, container) {
         `;
     }).join('');
 
+    // Add close button for mobile
+    if (window.innerWidth <= 768) {
+        html = `
+            <div class="mobile-search-close" id="close-suggestions">
+                <i class="fas fa-times"></i>
+            </div>
+            ${html}
+        `;
+    }
+
+    container.innerHTML = html;
     container.style.display = 'block';
+
+    // Add handler for close button
+    const closeBtn = document.getElementById('close-suggestions');
+    if (closeBtn) {
+        closeBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            container.style.display = 'none';
+        });
+    }
 }
 
 // Handle URL search parameters
