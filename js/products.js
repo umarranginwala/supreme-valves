@@ -74,8 +74,19 @@ class ProductManager {
      * Render product card HTML
      */
     renderProductCard(product) {
+        // Adjust URL path based on current location
+        const currentPath = window.location.pathname;
+        let productUrl = `products/${product.id}.html`;
+        
+        // If we're already in a subdirectory, adjust the path
+        if (currentPath.includes('/products/')) {
+            productUrl = `${product.id}.html`;
+        } else if (currentPath.includes('/faqs/') || currentPath.includes('/docs/') || currentPath.includes('/blog/') || currentPath.includes('/countries/')) {
+            productUrl = `../products/${product.id}.html`;
+        }
+        
         return `
-            <a href="products/${product.id}.html" class="product-card-new">
+            <a href="${productUrl}" class="product-card-new">
                 <div class="product-image">
                     <img src="${product.image}" 
                          alt="${product.name}" 
