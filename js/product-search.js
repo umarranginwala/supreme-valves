@@ -87,8 +87,22 @@ const productSearch = new ProductSearch();
 
 // Render product cards
 function renderProductCard(product) {
+    // Adjust URL path based on current location
+    let productUrl = product.url;
+    const currentPath = window.location.pathname;
+    
+    // If we're already in a subdirectory, make URL relative
+    if (currentPath.includes('/products/') || currentPath.includes('/faqs/') || currentPath.includes('/docs/') || currentPath.includes('/blog/') || currentPath.includes('/countries/')) {
+        // Remove 'products/' prefix since we need relative path
+        productUrl = product.url.replace('products/', '');
+        // Add ../ if we're in a different subdirectory
+        if (!currentPath.includes('/products/')) {
+            productUrl = '../' + product.url;
+        }
+    }
+    
     return `
-        <a href="${product.url}" class="product-card-new">
+        <a href="${productUrl}" class="product-card-new">
             <div class="product-card-icon">
                 <i class="fas ${product.categoryIcon}"></i>
             </div>
@@ -240,15 +254,32 @@ function showSuggestions(suggestions, container) {
         return;
     }
 
-    container.innerHTML = suggestions.map(product => `
-        <a href="${product.url}" class="suggestion-item">
-            <i class="fas ${product.categoryIcon}"></i>
-            <div>
-                <div class="suggestion-name">${product.name}</div>
-                <div class="suggestion-category">${product.category}</div>
-            </div>
-        </a>
-    `).join('');
+    const currentPath = window.location.pathname;
+    
+    container.innerHTML = suggestions.map(product => {
+        // Adjust URL path based on current location
+        let productUrl = product.url;
+        
+        // If we're already in a subdirectory, make URL relative
+        if (currentPath.includes('/products/') || currentPath.includes('/faqs/') || currentPath.includes('/docs/') || currentPath.includes('/blog/') || currentPath.includes('/countries/')) {
+            // Remove 'products/' prefix since we need relative path
+            productUrl = product.url.replace('products/', '');
+            // Add ../ if we're in a different subdirectory
+            if (!currentPath.includes('/products/')) {
+                productUrl = '../' + product.url;
+            }
+        }
+        
+        return `
+            <a href="${productUrl}" class="suggestion-item">
+                <i class="fas ${product.categoryIcon}"></i>
+                <div>
+                    <div class="suggestion-name">${product.name}</div>
+                    <div class="suggestion-category">${product.category}</div>
+                </div>
+            </a>
+        `;
+    }).join('');
 
     container.style.display = 'block';
 }
