@@ -125,9 +125,21 @@
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; margin-bottom: 4rem;">
             <div>
-                <div style="display: grid; gap: 1rem;">
-                    <img src="../assets/Valves and Projects/YSTRAINER_Brass.jpg" alt="Brass Y-Type Strainer BSP" style="width: 100%; border-radius: 12px; box-shadow: var(--shadow-lg);">
-                    <img src="../assets/Valves and Projects/YSTRAINER_Brass_Technical_drawing.jpg" alt="Brass Y-Type Strainer Technical Drawing" style="width: 100%; border-radius: 12px; box-shadow: var(--shadow-lg);">
+                <div class="product-image-slider" style="position: relative;">
+                    <div class="slider-container" style="position: relative; overflow: hidden; border-radius: 12px; box-shadow: var(--shadow-lg);">
+                        <img src="../assets/YSTRAINER_Brass.jpg" alt="Brass Y-Type Strainer BSP" class="slider-image active" style="width: 100%; display: block; transition: opacity 0.3s;">
+                        <img src="../assets/YSTRAINER_Brass_Technical_drawing.jpg" alt="Brass Y-Type Strainer Technical Drawing" class="slider-image" style="width: 100%; display: none; transition: opacity 0.3s;">
+                    </div>
+                    <button class="slider-btn prev" onclick="changeSlide(-1)" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; border-radius: 50%; cursor: pointer; font-size: 1.2rem; z-index: 10;">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button class="slider-btn next" onclick="changeSlide(1)" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; border-radius: 50%; cursor: pointer; font-size: 1.2rem; z-index: 10;">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                    <div class="slider-dots" style="text-align: center; margin-top: 1rem;">
+                        <span class="dot active" onclick="currentSlide(1)" style="display: inline-block; width: 12px; height: 12px; background: var(--accent-color); border-radius: 50%; margin: 0 5px; cursor: pointer;"></span>
+                        <span class="dot" onclick="currentSlide(2)" style="display: inline-block; width: 12px; height: 12px; background: #ddd; border-radius: 50%; margin: 0 5px; cursor: pointer;"></span>
+                    </div>
                 </div>
             </div>
             <div>
@@ -509,5 +521,46 @@
 
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <script src="../js/products.js"></script>
+    <script>
+        // Image Slider Functionality
+        let currentSlideIndex = 1;
+        showSlide(currentSlideIndex);
+
+        function changeSlide(n) {
+            showSlide(currentSlideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlide(currentSlideIndex = n);
+        }
+
+        function showSlide(n) {
+            let slides = document.getElementsByClassName('slider-image');
+            let dots = document.getElementsByClassName('dot');
+            
+            if (n > slides.length) { currentSlideIndex = 1; }
+            if (n < 1) { currentSlideIndex = slides.length; }
+            
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].style.display = 'none';
+                slides[i].classList.remove('active');
+            }
+            
+            for (let i = 0; i < dots.length; i++) {
+                dots[i].style.background = '#ddd';
+                dots[i].classList.remove('active');
+            }
+            
+            slides[currentSlideIndex - 1].style.display = 'block';
+            slides[currentSlideIndex - 1].classList.add('active');
+            dots[currentSlideIndex - 1].style.background = 'var(--accent-color)';
+            dots[currentSlideIndex - 1].classList.add('active');
+        }
+
+        // Auto-advance slides every 5 seconds
+        setInterval(() => {
+            changeSlide(1);
+        }, 5000);
+    </script>
 </body>
 </html>
