@@ -2075,6 +2075,364 @@
         "Oil"
       ],
       "featured": false
+    },
+    {
+      "id": "boss-valves",
+      "name": "BOSS VALVES",
+      "shortName": "VALVES",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE ISI MARKED  Flanged Ends",
+      "applications": [
+        "Industrial Systems"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-gun-metal-gate-valve",
+      "name": "BOSS GUN METAL GATE VALVE",
+      "shortName": "GUN METAL GATE VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE ISI MARKED  Flanged Ends",
+      "applications": [
+        "Industrial Systems"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-gun-metal-gate-valve-1",
+      "name": "BOSS GUN METAL GATE VALVE",
+      "shortName": "GUN METAL GATE VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE ISI MARKED  Screwed Female Ends",
+      "applications": [
+        "Industrial Systems"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-cast-iron-ball-valve",
+      "name": "BOSS CAST IRON BALL VALVE",
+      "shortName": "CAST IRON BALL VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON BALL VALVE  Screwed Ends / Flanged Ends  TEST  & SUITABILITY   TEST  PRESSURE:  300 Psig  Hyd.  SUITABLE : Water & Oil.",
+      "applications": [
+        "Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-double-disc-type",
+      "name": "BOSS BRONZE DOUBLE DISC TYPE",
+      "shortName": "BRONZE DOUBLE DISC TYPE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE DOUBLE DISC TYPE  TANKER VALVE Medium Pattern  No. 570  H-1  DESCRIPTION   BOSS BRONZE DOUBLE DISC TYPE  TANKER VALVE Heavy Pattern  No. 580  H-2  MALERIA  Name  of  P a r t s / Name of Parts Name  of  P a r t s NUT M. S. I S :1367 - 1967  WASHER M.S. IS :1367 - 1967  HAND WHEEL CAST IRON IS - 210 FG 200  SPINDLE FORGED BRASS I S 6912 FLB  GLAND NUT BRONZE I S : 318 LTB2   GLAND BRONZE I S : 318 LTS2  GLAND PACKING ASBEST OS IS : 4687  STUFFING BOX BRONZE IS : 318 LTB2  BONNET BRONZE I S : 318 LTB2  BODY BRONZE IS : 318 LTB2  STEM TEE FORGED BRASS IS : 6912 FLB  WEDGE BRONZE IS : 318 LTB2",
+      "applications": [
+        "Petrol",
+        "Diseal."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-horizontal-lift-1",
+      "name": "BOSS Bronze  HORIZONTAL LIFT",
+      "shortName": "Bronze  HORIZONTAL LIFT",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE EXTRA HEAVY  HORIZONTAL LIFT CHECK VALVE  Screwed Female Ends",
+      "applications": [
+        "Steam, Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-cast-iron-globe-steam",
+      "name": "BOSS CAST IRON GLOBE STEAM",
+      "shortName": "CAST IRON GLOBE STEAM",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON GLOBE  STEAM STOP VALVE  Flanged Ends PN -16 Standard pattern o / s &  yoke type rising stem & back seat arrangement  with renewable 13% cr SS Hardend (Aisi 410)  seat & stem. Hand wheel operated  Max. temp. 428\u00b0C  (225\u00b0C)  TEST  & SUITABILITY   Body Test Pressure : 370 Psig Hyd.  (26kgf/Cm'g Hyd.)  Steam Test Pressure : 150 Psig. Hyd.  SUITABLE: Steam & Water.",
+      "applications": [
+        "Steam",
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-cast-iron-junction-steam",
+      "name": "BOSS CAST IRON JUNCTION STEAM",
+      "shortName": "CAST IRON JUNCTION STEAM",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON JUNCTION  STEAM STOP VALVE (RIGHT ANGLE PATTERN)  Flanged Ends Bolted cover outside screw  yoke type rising stem with back seat arrangement  with renewable S S Hardend & stem as p e r  DIN 2533  Rf  (PN-16)  TEST  & SUITABILITY   Body Test Pressure : 370 Psig Hyd.  (26kgf/Cm'g Hyd.)  Steam Test Pressure : 185 Psig.  SUITABLE: Steam.",
+      "applications": [
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-spring-loaded-open",
+      "name": "BOSS BRONZE SPRING LOADED OPEN",
+      "shortName": "BRONZE SPRING LOADED OPEN",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE SPRING LOADED OPEN DISCHARGE  OR ENCLOSED DISCHARGE.  Screwed male BSPT inlet. Screwed female BSP  outlet (in case of enclosed discharge)",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-sleeve-packed-water",
+      "name": "BOSS BRONZE SLEEVE PACKED WATER",
+      "shortName": "BRONZE SLEEVE PACKED WATER",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE SLEEVE PACKED  WATER LEVEL GAUGE  Flanged Ends to BS-10 Table 'H' with  Automatic shut of device in the  water arm.  TEST  & SUITABILITY   Body Test Pressure: 500 Psig Hyd.  SUITABLE : Steam & Water.",
+      "applications": [
+        "Steam",
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-fusible-plug-1",
+      "name": "BOSS Bronze  FUSIBLE PLUG",
+      "shortName": "Bronze  FUSIBLE PLUG",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE FUSIBLE PLUG  ONE PIECE DESIGN BSP TAPER THREAD",
+      "applications": [
+        "Steam, Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-thermodynamic-steam-trap-with",
+      "name": "BOSS THERMODYNAMIC STEAM TRAP with",
+      "shortName": "THERMODYNAMIC STEAM TRAP with",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS THERMODYNAMIC STEAM TRAP  with S.S. (304) Strainer & S.S. working parts",
+      "applications": [
+        "STEAM"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-check-valve-standard",
+      "name": "BOSS BRONZE CHECK VALVE Standard",
+      "shortName": "BRONZE CHECK VALVE Standard",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE CHECK VALVE  Standard Pattern, Two Pc. Design  Screwed Ends B.S.P Parallel Thread  TEST  & SUITABILITY   MAX. Hyd. Test Pressure :  21.1 Kg/cm'(300psig.)  SUITABLE: Water & Oil.  DESCRIPTION  BOSS BRONZE VERTICAL LIFT CHECK VALVE  renwable hardend stainless steel  (AISI-410) Monal Seats,  Screwed Female ends to BSP Taper.  TEST  & SUITABILITY   MAX. 250 Psig on Steam at  428\u00b0F Team  H Y D .",
+      "applications": [
+        "Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-gun-metal-gate-valve-2",
+      "name": "BOSS GUN METAL GATE VALVE",
+      "shortName": "GUN METAL GATE VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE (HEAVY)  Pegular Type with Rising Stem  Screwed Female Ends PN-20",
+      "applications": [
+        "Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-gun-metal-gate-valve-3",
+      "name": "BOSS GUN METAL GATE VALVE",
+      "shortName": "GUN METAL GATE VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE (STANDARD)  Pegular Type with Non-Rising Stem  Screwed Female Ends PN-16",
+      "applications": [
+        "Industrial Systems"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-extra-heavy-globe-1",
+      "name": "BOSS Bronze  EXTRA HEAVY GLOBE",
+      "shortName": "Bronze  EXTRA HEAVY GLOBE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE EXTRA HEAVY GLOBE  STEAM STOP VALVE FLANGED ENDS  BS-10  T able 'H'",
+      "applications": [
+        "Water, Oil, Gas",
+        "Air."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-y-type-strainer-1",
+      "name": "BOSS Bronze  'Y' TYPE STRAINER",
+      "shortName": "Bronze  'Y' TYPE STRAINER",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE EXTRA HEAVY  'Y' TYPE STRAINER  With S.S. 304 Screen Special Gasket  between body & bonnet female ends  to  BSP taper threads",
+      "applications": [
+        "Steam, Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-y-type-strainer-2",
+      "name": "BOSS Bronze  \"Y' TYPE STRAINER",
+      "shortName": "Bronze  \"Y' TYPE STRAINER",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE EXTRA HEAVY  \"Y' TYPE STRAINER FLANGED ENDS  BS-10 Table 'H' with S.S 304 Screen  special gasket between body & bonnet",
+      "applications": [
+        "Steam, Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-valve-s-1",
+      "name": "BOSS VALVE S",
+      "shortName": "VALVE S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON HORIZONTAL  LIFT CHECK VALVE FLANGED ENDS  (Non-return) bolted cover with 13%cr.  SS hardend (AISI 410) Seat as per  DIN 2533 NP 16-RF (PN-16)  Max. Temp.  428\u00b0F  (225\u00b0C)  TEST  & SUITABILITY   Body Test Pressure: 370 Psig Hyd.  (26kgf/Cm'g Hyd.)  Steam Test Pressure: 185 Psig.  SUITABLE: Steam & Water.",
+      "applications": [
+        "Steam",
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "b-o-s-s-boss-valve-s-1",
+      "name": "B O S S BOSS VALVE S",
+      "shortName": "B O S S VALVE S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON CHECK VALVE  (RIGHT ANGLE PATTERN)  Flanged ends S.S. Hardend (AISI-410) .  Seat & As per DIN 2533 RF  (PN 16)  TEST  & SUITABILITY   Body Test Pressure: 300 Psig Hyd.  Steam Test Pressure : 150 Psig. Hyd.  SUITABLE: Steam & Water.",
+      "applications": [
+        "Steam",
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-y-type-strainer-3",
+      "name": "BOSS Bronze  \"Y\" TYPE STRAINER",
+      "shortName": "Bronze  \"Y\" TYPE STRAINER",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE \"Y\" TYPE STRAINER  Screwed female ends with S.S. (AISI-304).  Screen & Special gasket between body  and Bonnet Champion.",
+      "applications": [
+        "Water, Steam",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "b-o-s-s",
+      "name": "B O S S",
+      "shortName": "B O S S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS IBR BRONZE THERMODYNAMIC  STEAM TRAP  Screwed female ends & BSPT Taper  threads with integral S.S. (AISI-304)  strainer",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-valve-s-2",
+      "name": "BOSS VALVE S",
+      "shortName": "VALVE S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE HORIZONTAL LIFT  CHECK VALVE No. 9 Screwed Ends.  with S.S. working parts  BOSS  DESCRIPTION   BOSS BRONZE HORIZONTAL LIFT  CHECK VALVE No. 9 Flanged Ends.  with S.S. working parts B O s S",
+      "applications": [
+        "WATER, STEAM",
+        "OIL"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-union-bonnet-wheel",
+      "name": "BOSS BRONZE UNION BONNET WHEEL",
+      "shortName": "BRONZE UNION BONNET WHEEL",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE UNION BONNET  WHEEL VALVE No. 9 Screwed Ends  with Hardened S.S. working parts  DESCRIPTION   BOSS BRONZE UNION BONNET  WHEEL VALVE No. 9 Flanged Ends  with Hardened S.S. working parts  \u0e15 \u0e2d % \u0e23",
+      "applications": [
+        "WATER, STEAM, AIR",
+        "OIL"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-valve-s-3",
+      "name": "BOSS VALVE S",
+      "shortName": "VALVE S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE HORIZONTAL LIFT  CHECK VALVE No. 5 Screwed Ends.  BOSS  5 0 m r  DESCRIPTION  BOSS BRONZE HORIZONTAL LIFT  CHECK VALVE No. 5 Flanged Ends.  3 O \u0377 \u0377  BOSS  DESCRIPTION   BOSS BRONZE ANGLE HORIZONTAL  LIFT C H E C K V A L V E No. 5  Screwed Ends.  Name of Parts",
+      "applications": [
+        "WATER",
+        "OIL"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-valve-s-4",
+      "name": "BOSS VALVE S",
+      "shortName": "VALVE S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOBS BRONZE HORIZONTAL LIFT  CHECK VALVE No. 4 Screwed Ends.  BOSS  s o m m  DESCRIPTION  BOSS BRONZE HORIZONTAL LIFT  CHECK VALVE No. 8 Flanged Ends.  w O S \u0377  1E:  BOSS  DESCRIPTION   BOSS BRONZE ANGLE HORIZONTAL  LIFT C H E C K V A L V E No. 4  Screwed Ends.  \u0456\u0442.  MAT BRIALS  Name of  Parts BODY,  BONNET,  DISC",
+      "applications": [
+        "WATER",
+        "OIL"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-gun-metal-horizontal-lift",
+      "name": "BOSS GUN METAL HORIZONTAL LIFT",
+      "shortName": "GUN METAL HORIZONTAL LIFT",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL HORIZONTAL LIFT CHECK VALVE  Screwed Female Ends  Conforming to  IS : 778 Duly ISI Marked  Screwed in  Bonnet, Integral seat, Guided Plug Type Disc,  Increased Lift to ensure full \ufb02ow area.",
+      "applications": [
+        "Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-cast-steel-1",
+      "name": "BOSS CAST STEEL",
+      "shortName": "CAST STEEL",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST STEEL HORIZONTAL LIFT  CHECK VALVE (Non Return) Flanged Ends  with renewable S.S hardend (AISI-410)  Seat Din 254 RF (PN-40) as Per BS-450  max. Temp 400\u00b0C",
+      "applications": [
+        "Steam, Water",
+        "Oil"
+      ],
+      "featured": false
     }
   ]
 }
