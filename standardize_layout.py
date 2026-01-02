@@ -126,6 +126,9 @@ def standardize_layout():
             # Replace Footer
             content = re.sub(r'<footer.*?>.*?</footer>', footer_template.format(prefix=prefix), content, flags=re.DOTALL)
             
+            # Remove Font Awesome Kit Script (conflicts with CDN)
+            content = re.sub(r'<script src="https://kit.fontawesome.com/[^"]+js"[^>]*></script>', '', content)
+            
             # 1. Fix white-on-white or low contrast buttons in known dark sections
             # Find sections with background gradients (typical for hero/CTA)
             dark_sections = re.findall(r'(<section[^>]*style="[^"]*background:\s*linear-gradient[^"]*"[^>]*>.*?</section>)', content, re.DOTALL)
