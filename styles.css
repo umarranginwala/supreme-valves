@@ -376,7 +376,7 @@ header nav a.active {
     justify-content: center;
     align-items: center;
     position: relative;
-    overflow: hidden;
+    /* overflow: hidden; Removed to allow search dropdown to overflow */
 }
 
 .hero::before {

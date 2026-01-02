@@ -198,6 +198,7 @@
     color: var(--accent-color);
     font-size: 1.25rem;
     pointer-events: none;
+    z-index: 5;
 }
 
 #hero-search-suggestions {
@@ -249,10 +250,14 @@
 }
 
 .suggestion-item i {
-    color: var(--accent-color);
+    color: var(--secondary-color);
     font-size: 1.2rem;
     width: 24px;
     text-align: center;
+}
+
+.suggestion-item:hover i {
+    color: var(--primary-color);
 }
 
 .suggestion-name {
