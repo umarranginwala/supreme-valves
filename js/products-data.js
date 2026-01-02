@@ -182,8 +182,500 @@ const productCategories = {
             { name: "Full View Sight Glass Barstock", url: "products/full-view-sight-glass-barstock.html", tags: ["sight-glass"] },
             { name: "Gauge Glass Cock Set", url: "products/gauge-glass-cock-set.html", tags: ["gauge-glass"] }
         ]
-    }
-};
+    },
+    "boss-valves": {
+    "name": "BOSS Industrial Valves",
+    "icon": "fa-award",
+    "description": "Premium industrial valves and boiler mountings",
+    "products": [
+        {
+            "name": "BOSS Gun  Metal/Bronze  GATE V AL VE",
+            "url": "products/boss-gun-metal-bronze-gate-v-al-ve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Gun Metal",
+            "url": "products/boss-gun-metal.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS GUN METAL GATE VALVE ISI MARKED",
+            "url": "products/boss-boss-gun-metal-gate-valve-isi-marked.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS GUN METAL GATE VALVE ISI MARKED",
+            "url": "products/boss-boss-gun-metal-gate-valve-isi-marked.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS CAST IRON BALL VALVE",
+            "url": "products/boss-boss-cast-iron-ball-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS VALVE , S",
+            "url": "products/boss-valve-s.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS BRONZE DOUBLE DISC TYPE",
+            "url": "products/boss-boss-bronze-double-disc-type.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  T ANKER V AL VE",
+            "url": "products/boss-bronze-t-anker-v-al-ve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  HORIZONTAL LIFT",
+            "url": "products/boss-bronze-horizontal-lift.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  HORIZONTAL LIFT",
+            "url": "products/boss-bronze-horizontal-lift.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS CAST IRON GLOBE",
+            "url": "products/boss-boss-cast-iron-globe.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS CAST IRON JUNCTION",
+            "url": "products/boss-boss-cast-iron-junction.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Cast Steel Parallel Slide Blow off valve",
+            "url": "products/boss-cast-steel-parallel-slide-blow-off-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  \"Y' TYPE STRAINER",
+            "url": "products/boss-bronze-y-type-strainer.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Cast  Iron  'Y'-TYPE STRAINER",
+            "url": "products/boss-cast-iron-y-type-strainer.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS C a s t Iron  \"Y'-TYPE STRAINER",
+            "url": "products/boss-c-a-s-t-iron-y-type-strainer.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  Pop Type Safety Valve",
+            "url": "products/boss-bronze-pop-type-safety-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS BRONZE SPRING LOADED OPEN DISCHARGE",
+            "url": "products/boss-boss-bronze-spring-loaded-open-discharge.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "B O S S BOSS Gun  M e t a l / B r o n z e WHEEL VALVE",
+            "url": "products/b-o-s-s-boss-gun-m-e-t-a-l-b-r-o-n-z-e-wheel-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS \u2022 Gun  Metal/Bronze  WHEEL V AL VE",
+            "url": "products/boss-gun-metal-bronze-wheel-v-al-ve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS BRONZE SLEEVE PACKED",
+            "url": "products/boss-boss-bronze-sleeve-packed.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "B O S S BOSS VALVE S",
+            "url": "products/b-o-s-s-boss-valve-s.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  WATER LEVEL GAUGE",
+            "url": "products/boss-bronze-water-level-gauge.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "B O S S BOSS Bronze  WATER  LEVEL GAUGE",
+            "url": "products/b-o-s-s-boss-bronze-water-level-gauge.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  FUSIBLE PLUG",
+            "url": "products/boss-bronze-fusible-plug.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  FUSIBLE PLUG",
+            "url": "products/boss-bronze-fusible-plug.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS THERMODYNAMIC STEAM TRAP",
+            "url": "products/boss-boss-thermodynamic-steam-trap.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS VALV E",
+            "url": "products/boss-valv-e.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  Combined Cock &",
+            "url": "products/boss-bronze-combined-cock.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS \u66f2",
+            "url": "products/boss.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  FOOT VALVE",
+            "url": "products/boss-bronze-foot-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS BRONZE CHECK VALVE",
+            "url": "products/boss-boss-bronze-check-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS GUN METAL GATE VALVE (HEAVY)",
+            "url": "products/boss-boss-gun-metal-gate-valve-heavy.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS GUN METAL GATE VALVE (STANDARD)",
+            "url": "products/boss-boss-gun-metal-gate-valve-standard.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  EXTRA HEAVY GLOBE",
+            "url": "products/boss-bronze-extra-heavy-globe.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  EXTRA HEAVY GLOBE",
+            "url": "products/boss-bronze-extra-heavy-globe.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  'Y' TYPE STRAINER",
+            "url": "products/boss-bronze-y-type-strainer.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  \"Y' TYPE STRAINER",
+            "url": "products/boss-bronze-y-type-strainer.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS VALVE S",
+            "url": "products/boss-valve-s.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "B O S S BOSS VALVE S",
+            "url": "products/b-o-s-s-boss-valve-s.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "B O S S BOSS Gun  Metal/Bronze  WHEEL V AL VE NO. 5",
+            "url": "products/b-o-s-s-boss-gun-metal-bronze-wheel-v-al-ve-no-5.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  \"Y\" TYPE STRAINER",
+            "url": "products/boss-bronze-y-type-strainer.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  PARALLEL SLIDE",
+            "url": "products/boss-bronze-parallel-slide.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS IBR BRONZE THERMODYNAMIC",
+            "url": "products/boss-ibr-bronze-thermodynamic.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS VALVE S",
+            "url": "products/boss-valve-s.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS BRONZE UNION BONNET",
+            "url": "products/boss-boss-bronze-union-bonnet.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS VALVE S",
+            "url": "products/boss-valve-s.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS VALVE S",
+            "url": "products/boss-valve-s.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS VALVE",
+            "url": "products/boss-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS BOSS GUN METAL HORIZONTAL LIFT CHECK VALVE",
+            "url": "products/boss-boss-gun-metal-horizontal-lift-check-valve.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS Bronze  VERTICAL LIFT",
+            "url": "products/boss-bronze-vertical-lift.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS B r o n z e VERTICAL LIFT",
+            "url": "products/boss-b-r-o-n-z-e-vertical-lift.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS CAST STEEL",
+            "url": "products/boss-cast-steel.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        },
+        {
+            "name": "BOSS CAST STEEL",
+            "url": "products/boss-cast-steel.html",
+            "tags": [
+                "boss",
+                "industrial",
+                "premium"
+            ]
+        }
+    ]
+}};
 
 // All products flattened for search
 const allProducts = [];

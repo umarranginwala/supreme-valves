@@ -7,7 +7,11 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "High-performance gate valves for reliable on-off control in industrial applications.",
-      "applications": ["Oil & Gas", "Petrochemical", "Water Treatment"],
+      "applications": [
+        "Oil & Gas",
+        "Petrochemical",
+        "Water Treatment"
+      ],
       "featured": true
     },
     {
@@ -17,7 +21,11 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Precision flow control valves for throttling and regulating applications.",
-      "applications": ["Steam Systems", "Chemical Processing", "HVAC"],
+      "applications": [
+        "Steam Systems",
+        "Chemical Processing",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -27,7 +35,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Quick-acting ball valves for tight shut-off and minimal pressure drop.",
-      "applications": ["Oil & Gas", "Water", "Chemical"],
+      "applications": [
+        "Oil & Gas",
+        "Water",
+        "Chemical"
+      ],
       "featured": true
     },
     {
@@ -37,7 +49,11 @@
       "category": "Automated Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Automated ball valves with electric, pneumatic, or hydraulic actuators.",
-      "applications": ["Process Automation", "Remote Control", "Safety Systems"],
+      "applications": [
+        "Process Automation",
+        "Remote Control",
+        "Safety Systems"
+      ],
       "featured": true
     },
     {
@@ -47,7 +63,11 @@
       "category": "Non-Return Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Automatic valves preventing reverse flow and backflow protection.",
-      "applications": ["Pump Protection", "Pipeline Systems", "Water Systems"],
+      "applications": [
+        "Pump Protection",
+        "Pipeline Systems",
+        "Water Systems"
+      ],
       "featured": true
     },
     {
@@ -57,7 +77,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Compact, lightweight valves for large diameter applications.",
-      "applications": ["HVAC", "Water Distribution", "Food Processing"],
+      "applications": [
+        "HVAC",
+        "Water Distribution",
+        "Food Processing"
+      ],
       "featured": true
     },
     {
@@ -67,7 +91,11 @@
       "category": "Flow Indicators",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Visual flow indicators for monitoring fluid flow and level.",
-      "applications": ["Process Monitoring", "Tank Level", "Flow Verification"],
+      "applications": [
+        "Process Monitoring",
+        "Tank Level",
+        "Flow Verification"
+      ],
       "featured": true
     },
     {
@@ -77,7 +105,11 @@
       "category": "Specialty Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Designed for slurry and viscous media with cutting edge disc.",
-      "applications": ["Mining", "Pulp & Paper", "Wastewater"],
+      "applications": [
+        "Mining",
+        "Pulp & Paper",
+        "Wastewater"
+      ],
       "featured": true
     },
     {
@@ -87,7 +119,11 @@
       "category": "Non-Return Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Full-bore check valves with minimal pressure drop.",
-      "applications": ["Pump Discharge", "Pipeline", "Water Systems"],
+      "applications": [
+        "Pump Discharge",
+        "Pipeline",
+        "Water Systems"
+      ],
       "featured": true
     },
     {
@@ -97,7 +133,11 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "High-pressure valves for precise flow control.",
-      "applications": ["High Pressure Systems", "Steam", "Gas"],
+      "applications": [
+        "High Pressure Systems",
+        "Steam",
+        "Gas"
+      ],
       "featured": true
     },
     {
@@ -107,7 +147,11 @@
       "category": "Specialty Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Valves for draining and purging systems.",
-      "applications": ["Boiler Systems", "Pressure Vessels", "Steam Systems"],
+      "applications": [
+        "Boiler Systems",
+        "Pressure Vessels",
+        "Steam Systems"
+      ],
       "featured": true
     },
     {
@@ -117,7 +161,11 @@
       "category": "Strainers & Filters",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Large capacity strainers for removing debris from pipelines.",
-      "applications": ["Pump Protection", "Process Lines", "Cooling Water"],
+      "applications": [
+        "Pump Protection",
+        "Process Lines",
+        "Cooling Water"
+      ],
       "featured": true
     },
     {
@@ -127,7 +175,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Compact, economical ball valves for general service.",
-      "applications": ["Water", "Air", "Light Duty Applications"],
+      "applications": [
+        "Water",
+        "Air",
+        "Light Duty Applications"
+      ],
       "featured": true
     },
     {
@@ -137,7 +189,11 @@
       "category": "Non-Return Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Silent check valves preventing water hammer.",
-      "applications": ["Pump Systems", "High Velocity Lines", "Water Distribution"],
+      "applications": [
+        "Pump Systems",
+        "High Velocity Lines",
+        "Water Distribution"
+      ],
       "featured": true
     },
     {
@@ -147,7 +203,11 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Precision valves for fine flow control and instrumentation.",
-      "applications": ["Instrumentation", "Sampling", "Gauge Lines"],
+      "applications": [
+        "Instrumentation",
+        "Sampling",
+        "Gauge Lines"
+      ],
       "featured": true
     },
     {
@@ -157,7 +217,11 @@
       "category": "Strainers & Filters",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Compact strainers for removing particles from fluid flow.",
-      "applications": ["Steam", "Gas", "Liquid Lines"],
+      "applications": [
+        "Steam",
+        "Gas",
+        "Liquid Lines"
+      ],
       "featured": true
     },
     {
@@ -167,7 +231,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Serviceable ball valves for industrial applications.",
-      "applications": ["Chemical", "Oil & Gas", "General Industry"],
+      "applications": [
+        "Chemical",
+        "Oil & Gas",
+        "General Industry"
+      ],
       "featured": true
     },
     {
@@ -177,7 +245,11 @@
       "category": "Non-Return Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Compact wafer-style check valves with low pressure drop.",
-      "applications": ["Space-Limited Applications", "HVAC", "Water"],
+      "applications": [
+        "Space-Limited Applications",
+        "HVAC",
+        "Water"
+      ],
       "featured": true
     },
     {
@@ -187,7 +259,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Fully serviceable ball valves for critical applications.",
-      "applications": ["Chemical Processing", "Pharmaceutical", "Food & Beverage"],
+      "applications": [
+        "Chemical Processing",
+        "Pharmaceutical",
+        "Food & Beverage"
+      ],
       "featured": true
     },
     {
@@ -197,7 +273,11 @@
       "category": "Specialty Equipment",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Removes moisture and condensate from steam and gas lines.",
-      "applications": ["Steam Systems", "Compressed Air", "Gas Processing"],
+      "applications": [
+        "Steam Systems",
+        "Compressed Air",
+        "Gas Processing"
+      ],
       "featured": true
     },
     {
@@ -207,7 +287,11 @@
       "category": "Non-Return Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Lightweight check valves for installation between flanges.",
-      "applications": ["HVAC", "Water Treatment", "General Service"],
+      "applications": [
+        "HVAC",
+        "Water Treatment",
+        "General Service"
+      ],
       "featured": true
     },
     {
@@ -217,7 +301,11 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Automatic valves maintaining downstream pressure.",
-      "applications": ["Steam Distribution", "Gas Regulation", "Water Supply"],
+      "applications": [
+        "Steam Distribution",
+        "Gas Regulation",
+        "Water Supply"
+      ],
       "featured": true
     },
     {
@@ -227,7 +315,11 @@
       "category": "Non-Return Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Vertical flow check valves for high-pressure applications.",
-      "applications": ["High Pressure", "Steam", "Boiler Feed"],
+      "applications": [
+        "High Pressure",
+        "Steam",
+        "Boiler Feed"
+      ],
       "featured": true
     },
     {
@@ -237,7 +329,11 @@
       "category": "Specialty Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Tank bottom valves for complete drainage.",
-      "applications": ["Storage Tanks", "Process Vessels", "Silos"],
+      "applications": [
+        "Storage Tanks",
+        "Process Vessels",
+        "Silos"
+      ],
       "featured": true
     },
     {
@@ -247,7 +343,11 @@
       "category": "Steam Traps",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Compact steam traps for condensate removal.",
-      "applications": ["Steam Lines", "Process Heating", "Tracing"],
+      "applications": [
+        "Steam Lines",
+        "Process Heating",
+        "Tracing"
+      ],
       "featured": true
     },
     {
@@ -257,7 +357,11 @@
       "category": "Multi-Port Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Multi-port valves for flow diversion and mixing.",
-      "applications": ["Flow Diversion", "Mixing", "Bypass Systems"],
+      "applications": [
+        "Flow Diversion",
+        "Mixing",
+        "Bypass Systems"
+      ],
       "featured": true
     },
     {
@@ -267,7 +371,11 @@
       "category": "Safety Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Pressure relief valves for overpressure protection.",
-      "applications": ["Pressure Vessels", "Boilers", "Process Safety"],
+      "applications": [
+        "Pressure Vessels",
+        "Boilers",
+        "Process Safety"
+      ],
       "featured": true
     },
     {
@@ -277,7 +385,11 @@
       "category": "Automated Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Automated control valves for process automation.",
-      "applications": ["HVAC Control", "Process Automation", "Flow Control"],
+      "applications": [
+        "HVAC Control",
+        "Process Automation",
+        "Flow Control"
+      ],
       "featured": true
     },
     {
@@ -287,7 +399,11 @@
       "category": "Automated Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "SS 904L Center Disc Double Flanged Butterfly Valve with Pneumatic Single Acting Actuator, EPDM Seat, EN 10204 3.1 Certified.",
-      "applications": ["Corrosive Media", "Chemical Processing", "Seawater Systems"],
+      "applications": [
+        "Corrosive Media",
+        "Chemical Processing",
+        "Seawater Systems"
+      ],
       "featured": true
     },
     {
@@ -297,7 +413,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Triple Offset Butterfly Valve, Wafer Type, ASME B16.5 Class 150. WCB Body with 13CR Seat and Graphite Seals.",
-      "applications": ["High Performance", "Oil & Gas", "Power Generation"],
+      "applications": [
+        "High Performance",
+        "Oil & Gas",
+        "Power Generation"
+      ],
       "featured": true
     },
     {
@@ -307,7 +427,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Lug Type Butterfly Valve DN150 PN16/Class 150, Nickel Aluminium Bronze Body & Disc, EPDM Seat, Monel Stem, Manual Gearbox.",
-      "applications": ["Marine", "Seawater", "Corrosive Service"],
+      "applications": [
+        "Marine",
+        "Seawater",
+        "Corrosive Service"
+      ],
       "featured": true
     },
     {
@@ -317,7 +441,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Butterfly Valve DN100 PN16/Class 150, Nickel Aluminium Bronze Body & Disc, EPDM Seat, Monel Stem, Manual Gearbox.",
-      "applications": ["Marine", "Seawater", "Offshore"],
+      "applications": [
+        "Marine",
+        "Seawater",
+        "Offshore"
+      ],
       "featured": true
     },
     {
@@ -327,7 +455,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Lug Type Butterfly Valve DN80 PN16/Class 150, Nickel Aluminium Bronze Body & Disc, EPDM Seat, Monel Stem, Manual Gearbox, EN 10204 3.1 Certified.",
-      "applications": ["Marine", "Seawater", "Shipbuilding"],
+      "applications": [
+        "Marine",
+        "Seawater",
+        "Shipbuilding"
+      ],
       "featured": true
     },
     {
@@ -337,7 +469,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Single Piece Design with Screw End connections (BSP/BSPT/NPT). Compact design for steam, water, oil, air, and gas applications.",
-      "applications": ["Steam Systems", "Water Treatment", "Oil & Gas", "Air Systems"],
+      "applications": [
+        "Steam Systems",
+        "Water Treatment",
+        "Oil & Gas",
+        "Air Systems"
+      ],
       "featured": true
     },
     {
@@ -347,7 +484,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Single Piece Design with Flange End Class 150. PTFE/GFT seats for reliable sealing in various applications.",
-      "applications": ["Steam Systems", "Water Treatment", "Oil & Gas", "Chemical Processing"],
+      "applications": [
+        "Steam Systems",
+        "Water Treatment",
+        "Oil & Gas",
+        "Chemical Processing"
+      ],
       "featured": true
     },
     {
@@ -357,7 +499,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Two Piece Design with Flange End Class 150. Easy maintenance design with API 6D compliance.",
-      "applications": ["Oil & Gas", "Petrochemical", "Water Systems", "Industrial Process"],
+      "applications": [
+        "Oil & Gas",
+        "Petrochemical",
+        "Water Systems",
+        "Industrial Process"
+      ],
       "featured": true
     },
     {
@@ -367,7 +514,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Three Piece Design with Screw/Socket Weld End. Full port design with easy in-line maintenance capability.",
-      "applications": ["Process Industries", "Chemical Plants", "Oil & Gas", "Power Generation"],
+      "applications": [
+        "Process Industries",
+        "Chemical Plants",
+        "Oil & Gas",
+        "Power Generation"
+      ],
       "featured": true
     },
     {
@@ -377,7 +529,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Three Piece Design Flange End Class 150. Available with gear operation and actuator options.",
-      "applications": ["Oil & Gas", "Petrochemical", "Chemical Processing", "Water Treatment"],
+      "applications": [
+        "Oil & Gas",
+        "Petrochemical",
+        "Chemical Processing",
+        "Water Treatment"
+      ],
       "featured": true
     },
     {
@@ -387,7 +544,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Three Piece Design Flange End Class 300. High pressure rating with gear and actuator operation available.",
-      "applications": ["High Pressure Systems", "Oil & Gas", "Petrochemical", "Power Plants"],
+      "applications": [
+        "High Pressure Systems",
+        "Oil & Gas",
+        "Petrochemical",
+        "Power Plants"
+      ],
       "featured": true
     },
     {
@@ -397,7 +559,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Three Piece Design with E Table Flange connections. Compact design for space-constrained applications.",
-      "applications": ["Industrial Process", "Chemical Plants", "Water Systems", "HVAC"],
+      "applications": [
+        "Industrial Process",
+        "Chemical Plants",
+        "Water Systems",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -407,7 +574,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve Three Piece Design with F Table Flange connections. Suitable for various industrial applications.",
-      "applications": ["Industrial Process", "Chemical Plants", "Water Systems", "Oil & Gas"],
+      "applications": [
+        "Industrial Process",
+        "Chemical Plants",
+        "Water Systems",
+        "Oil & Gas"
+      ],
       "featured": true
     },
     {
@@ -417,7 +589,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Steel Ball Valve Three Piece Design with Flange End Class 150/300. WCB body with fire-safe and anti-static design available.",
-      "applications": ["Water Systems", "Oil & Gas", "Air Systems", "Industrial Process"],
+      "applications": [
+        "Water Systems",
+        "Oil & Gas",
+        "Air Systems",
+        "Industrial Process"
+      ],
       "featured": true
     },
     {
@@ -427,7 +604,12 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Precision needle valves for accurate flow control. Available in round and square body designs with high pressure ratings up to 10,000 PSI.",
-      "applications": ["Steam Systems", "Air Systems", "Gas Systems", "Instrumentation"],
+      "applications": [
+        "Steam Systems",
+        "Air Systems",
+        "Gas Systems",
+        "Instrumentation"
+      ],
       "featured": true
     },
     {
@@ -437,7 +619,11 @@
       "category": "Steam Traps",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Thermodynamic Steam Trap with AISI 410 body. Compact design for efficient condensate removal in steam systems.",
-      "applications": ["Steam Systems", "Process Industries", "HVAC"],
+      "applications": [
+        "Steam Systems",
+        "Process Industries",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -447,7 +633,11 @@
       "category": "Steam Traps",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Iron Bucket and Ball Float Type Steam Trap conforming to IS 12268 / ISO 6552. Reliable condensate removal with graphite gasket sealing.",
-      "applications": ["Steam Systems", "Industrial Process", "Power Plants"],
+      "applications": [
+        "Steam Systems",
+        "Industrial Process",
+        "Power Plants"
+      ],
       "featured": true
     },
     {
@@ -457,7 +647,12 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Knife Edge Gate Valve for powder and slurry applications. Available in WCB and Stainless Steel with sizes from 2\" to 16\".",
-      "applications": ["Powder Handling", "Slurry Systems", "Mining", "Cement Plants"],
+      "applications": [
+        "Powder Handling",
+        "Slurry Systems",
+        "Mining",
+        "Cement Plants"
+      ],
       "featured": true
     },
     {
@@ -467,7 +662,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Iron Foot Valve with Flange End conforming to IS 4038/BS-1. Complete with strainer screen for water and oil applications.",
-      "applications": ["Water Systems", "Oil Systems", "Pump Protection", "Suction Lines"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Pump Protection",
+        "Suction Lines"
+      ],
       "featured": true
     },
     {
@@ -477,7 +677,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Iron Ball Valve Three Piece Design with Flange End Class 150. Square body design up to 3\", round body 4\" and above. E/F table flanges available.",
-      "applications": ["Water Systems", "Industrial Process", "HVAC", "Plumbing"],
+      "applications": [
+        "Water Systems",
+        "Industrial Process",
+        "HVAC",
+        "Plumbing"
+      ],
       "featured": true
     },
     {
@@ -487,7 +692,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Iron Ball Valve Two Piece Design with Flange End Class 150. Locking lever available. Sizes 1\" to 4\" for water applications.",
-      "applications": ["Water Systems", "Municipal Water", "Building Services", "HVAC"],
+      "applications": [
+        "Water Systems",
+        "Municipal Water",
+        "Building Services",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -497,7 +707,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Single Piece Ball Valve available in Cast Iron, Mild Steel, or Stainless Steel. BSP/NPT threading. Compact design for water, oil, air, and gas.",
-      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems",
+        "Gas Systems"
+      ],
       "featured": true
     },
     {
@@ -507,7 +722,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Forged Steel Ball Valve Class 800 & 1500 with BSP/NPT/Socket Weld ends. High pressure rating up to 1100 PSI. ASTM A-105 & A-182 materials.",
-      "applications": ["High Pressure Systems", "Oil & Gas", "Petrochemical", "Power Plants"],
+      "applications": [
+        "High Pressure Systems",
+        "Oil & Gas",
+        "Petrochemical",
+        "Power Plants"
+      ],
       "featured": true
     },
     {
@@ -517,7 +737,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Three Way Ball Valve with T-Port & L-Port designs. BSP/NPT threading. Sizes 1/2\" to 2\". Class 150 rating.",
-      "applications": ["Flow Diversion", "Mixing Applications", "Process Control", "Chemical Plants"],
+      "applications": [
+        "Flow Diversion",
+        "Mixing Applications",
+        "Process Control",
+        "Chemical Plants"
+      ],
       "featured": true
     },
     {
@@ -527,7 +752,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Three Way Ball Valve Flange End with T-Port & L-Port ball designs. Available in WCB, MS, and SS materials. Sizes 15mm to 150mm.",
-      "applications": ["Flow Diversion", "Mixing", "Bypass Systems", "Process Industries"],
+      "applications": [
+        "Flow Diversion",
+        "Mixing",
+        "Bypass Systems",
+        "Process Industries"
+      ],
       "featured": true
     },
     {
@@ -536,8 +766,13 @@
       "shortName": "IC Flush Bottom Valve",
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
-      "description": "Investment Cast Flush Bottom Ball Valve with 45° or 90° lever operation. Class 150. Sizes 25x40mm to 80x100mm. For tank bottom applications.",
-      "applications": ["Tank Bottom", "Reactor Vessels", "Chemical Storage", "Pharmaceutical"],
+      "description": "Investment Cast Flush Bottom Ball Valve with 45\u00b0 or 90\u00b0 lever operation. Class 150. Sizes 25x40mm to 80x100mm. For tank bottom applications.",
+      "applications": [
+        "Tank Bottom",
+        "Reactor Vessels",
+        "Chemical Storage",
+        "Pharmaceutical"
+      ],
       "featured": true
     },
     {
@@ -547,7 +782,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Jacketed Ball Valve with steam/thermal oil jacket for temperature control. Class 150. Sizes 25x40mm to 100x150mm. MS/SS 304/316 construction.",
-      "applications": ["Heated Media", "Viscous Fluids", "Chemical Process", "Food & Pharma"],
+      "applications": [
+        "Heated Media",
+        "Viscous Fluids",
+        "Chemical Process",
+        "Food & Pharma"
+      ],
       "featured": true
     },
     {
@@ -557,7 +797,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Ball Valve with Tri-Clover (TC) sanitary connections. Class 150. Sizes 15mm to 50mm. For hygienic applications.",
-      "applications": ["Food & Beverage", "Pharmaceutical", "Dairy", "Biotech"],
+      "applications": [
+        "Food & Beverage",
+        "Pharmaceutical",
+        "Dairy",
+        "Biotech"
+      ],
       "featured": true
     },
     {
@@ -567,7 +812,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Butterfly Valve PN10 with rubber lining (Nitrile/EPDM/Viton/Silicon). Sizes 40mm to 300mm. API 609/IS 13095 compliant. Gear operated available.",
-      "applications": ["Water Systems", "Oil Systems", "Air Systems", "HVAC"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -577,7 +827,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Butterfly Valve PN16 with ISO 5211 mounting. Cast Iron/Cast Steel/SS construction. Sizes 40mm to 400mm. Gear operated available.",
-      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Industrial Process"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems",
+        "Industrial Process"
+      ],
       "featured": true
     },
     {
@@ -587,7 +842,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "PTFE Lined Ball Valve with PFA/FEP lining. SG Iron/WCB/SS body. Sizes 1\" to 4\". For corrosive media applications.",
-      "applications": ["Chemical Process", "Corrosive Media", "Acids & Alkalis", "Pharmaceutical"],
+      "applications": [
+        "Chemical Process",
+        "Corrosive Media",
+        "Acids & Alkalis",
+        "Pharmaceutical"
+      ],
       "featured": true
     },
     {
@@ -597,7 +857,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "PTFE Lined Butterfly Valve with FEP/PFA lining. API 609 compliant. Sizes 50mm to 350mm. For corrosive and aggressive media.",
-      "applications": ["Chemical Process", "Corrosive Media", "Acids", "Pharmaceutical"],
+      "applications": [
+        "Chemical Process",
+        "Corrosive Media",
+        "Acids",
+        "Pharmaceutical"
+      ],
       "featured": true
     },
     {
@@ -607,7 +872,12 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Gate Valve Flange End Class 150. ANSI B16.34/API 600 compliant. CF8/CF8M/CI/CS materials. Sizes 25mm to 300mm.",
-      "applications": ["Steam Systems", "Water Systems", "Oil Systems", "Air Systems"],
+      "applications": [
+        "Steam Systems",
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems"
+      ],
       "featured": true
     },
     {
@@ -617,7 +887,12 @@
       "category": "Globe Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Globe Valve Flange End Class 150. BS 5351/API 6D compliant. CF8/CF8M/CI/CS materials. Sizes 25mm to 300mm.",
-      "applications": ["Steam Systems", "Oil Systems", "Air Systems", "Throttling Service"],
+      "applications": [
+        "Steam Systems",
+        "Oil Systems",
+        "Air Systems",
+        "Throttling Service"
+      ],
       "featured": true
     },
     {
@@ -627,7 +902,12 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Gate Valve with BSP/NPT threading. Class 150. Sizes 1/2\" to 2\". ASTM A351 CF8/CF8M materials.",
-      "applications": ["Steam Systems", "Water Systems", "Oil Systems", "Air Systems"],
+      "applications": [
+        "Steam Systems",
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems"
+      ],
       "featured": true
     },
     {
@@ -637,7 +917,12 @@
       "category": "Globe Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Globe Valve with BSP/NPT threading. Class 150. Sizes 1/2\" to 2\". For throttling and flow control.",
-      "applications": ["Steam Systems", "Water Systems", "Oil Systems", "Air Systems"],
+      "applications": [
+        "Steam Systems",
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems"
+      ],
       "featured": true
     },
     {
@@ -647,7 +932,12 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Forged Steel Gate & Globe Valves Class 800/1500. ASTM A105/F11/F22/F304/F316. High pressure up to 5400 PSIG. Sizes 1/2\" to 2\".",
-      "applications": ["High Pressure", "Oil & Gas", "Power Plants", "Petrochemical"],
+      "applications": [
+        "High Pressure",
+        "Oil & Gas",
+        "Power Plants",
+        "Petrochemical"
+      ],
       "featured": true
     },
     {
@@ -657,7 +947,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Disc Check Valve (DCV) PN16/PN40. ASTM A351 CF8/CF8M. Sizes 15mm to 200mm. Spring loaded disc design.",
-      "applications": ["Steam Systems", "Water Systems", "Air Systems", "Gas Systems"],
+      "applications": [
+        "Steam Systems",
+        "Water Systems",
+        "Air Systems",
+        "Gas Systems"
+      ],
       "featured": true
     },
     {
@@ -667,7 +962,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Wafer Check Valve PN10. API 6D/ANSI B16.34 compliant. IC CF8/CF8M. Sizes 40mm to 300mm.",
-      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems",
+        "Gas Systems"
+      ],
       "featured": true
     },
     {
@@ -677,7 +977,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Wafer Check Valve Barstock PN10/PN16. CI/MS/SS construction. Sizes 40mm to 300mm. Nitrile/EPDM O-ring.",
-      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems",
+        "Gas Systems"
+      ],
       "featured": true
     },
     {
@@ -687,7 +992,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Swing Check Valve Class 150. BS 1873/API 598 compliant. ASTM A216 WCB. Sizes 25mm to 300mm. Full port design.",
-      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems",
+        "Gas Systems"
+      ],
       "featured": true
     },
     {
@@ -697,7 +1007,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Dual Plate Check Valve API 594/API 6D. Wafer type between flanges. Sizes 50mm to 600mm. Spring loaded dual disc design.",
-      "applications": ["Water Systems", "Oil Systems", "Air Systems", "Gas Systems"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Air Systems",
+        "Gas Systems"
+      ],
       "featured": true
     },
     {
@@ -707,7 +1022,12 @@
       "category": "Strainers",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Y Strainer with BSP threading. Class 150. Sizes 1/2\" to 2\". ASTM A351 CF8/CF8M. SS screen.",
-      "applications": ["Water Systems", "Oil Systems", "Steam Systems", "Process Protection"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Steam Systems",
+        "Process Protection"
+      ],
       "featured": true
     },
     {
@@ -717,7 +1037,12 @@
       "category": "Strainers",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Y Strainer with Flange End Class 150. ASTM A351 CF8/CF8M materials with SS screen. For pipeline protection.",
-      "applications": ["Industrial Process", "Water Systems", "Steam Systems", "Petrochemical"],
+      "applications": [
+        "Industrial Process",
+        "Water Systems",
+        "Steam Systems",
+        "Petrochemical"
+      ],
       "featured": true
     },
     {
@@ -727,7 +1052,11 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "30 Inch Full Bore Through Conduit Slab Gate Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
-      "applications": ["Oil & Gas Pipelines", "Petrochemical", "Transmission Lines"],
+      "applications": [
+        "Oil & Gas Pipelines",
+        "Petrochemical",
+        "Transmission Lines"
+      ],
       "featured": false
     },
     {
@@ -737,7 +1066,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "30 Inch Full Bore Ball Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
-      "applications": ["Oil & Gas Pipelines", "Water Transmission", "Industrial Process"],
+      "applications": [
+        "Oil & Gas Pipelines",
+        "Water Transmission",
+        "Industrial Process"
+      ],
       "featured": false
     },
     {
@@ -747,7 +1080,11 @@
       "category": "Specialty Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "30 Inch Sandwich Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
-      "applications": ["Hot Tapping", "Line Plugging", "Pipeline Maintenance"],
+      "applications": [
+        "Hot Tapping",
+        "Line Plugging",
+        "Pipeline Maintenance"
+      ],
       "featured": false
     },
     {
@@ -757,7 +1094,11 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "40 Inch Full Bore Through Conduit Slab Gate Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
-      "applications": ["Large Diameter Pipelines", "Oil & Gas", "Water Infrastructure"],
+      "applications": [
+        "Large Diameter Pipelines",
+        "Oil & Gas",
+        "Water Infrastructure"
+      ],
       "featured": false
     },
     {
@@ -767,7 +1108,11 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "40 Inch Full Bore Ball Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
-      "applications": ["Oil & Gas Pipelines", "Large Scale Water Projects", "Industrial"],
+      "applications": [
+        "Oil & Gas Pipelines",
+        "Large Scale Water Projects",
+        "Industrial"
+      ],
       "featured": false
     },
     {
@@ -777,7 +1122,11 @@
       "category": "Specialty Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "40 Inch Sandwich Valve, Class 300. End flanges as per ASME B16.47A. MOC: WCB.",
-      "applications": ["Pipeline Intervention", "Hot Tapping", "Major Repairs"],
+      "applications": [
+        "Pipeline Intervention",
+        "Hot Tapping",
+        "Major Repairs"
+      ],
       "featured": false
     },
     {
@@ -786,8 +1135,13 @@
       "shortName": "CI Y Strainer S/E",
       "category": "Strainers",
       "image": "assets/Valves and Projects/hero_image.jpeg",
-      "description": "Cast Iron Y Strainer with BSP threading. Body test 7 Kg/cm². Sizes 15mm to 100mm. SS 202/304 screen.",
-      "applications": ["Water Systems", "Municipal Water", "Building Services", "HVAC"],
+      "description": "Cast Iron Y Strainer with BSP threading. Body test 7 Kg/cm\u00b2. Sizes 15mm to 100mm. SS 202/304 screen.",
+      "applications": [
+        "Water Systems",
+        "Municipal Water",
+        "Building Services",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -796,8 +1150,13 @@
       "shortName": "CI Y Strainer F/E",
       "category": "Strainers",
       "image": "assets/Valves and Projects/hero_image.jpeg",
-      "description": "Cast Iron Y Strainer Flange End Class 150. Body test 7 Kg/cm². Sizes 25mm to 300mm. SS 202/304 screen.",
-      "applications": ["Water Systems", "Municipal Water", "Industrial Water", "HVAC"],
+      "description": "Cast Iron Y Strainer Flange End Class 150. Body test 7 Kg/cm\u00b2. Sizes 25mm to 300mm. SS 202/304 screen.",
+      "applications": [
+        "Water Systems",
+        "Municipal Water",
+        "Industrial Water",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -807,7 +1166,12 @@
       "category": "Strainers",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Carbon Steel Y Strainer Flange End Class 150. ASTM A216 WCB. Sizes 25mm to 300mm. SS 304/316 screen.",
-      "applications": ["Steam Systems", "Oil Systems", "High Temperature", "Process Industries"],
+      "applications": [
+        "Steam Systems",
+        "Oil Systems",
+        "High Temperature",
+        "Process Industries"
+      ],
       "featured": true
     },
     {
@@ -817,7 +1181,12 @@
       "category": "Strainers",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Basket/Bucket Type Strainer Class 150/300. WCB/SS 304/316 construction. Sizes 50mm to 300mm. Large filtration area.",
-      "applications": ["Water Systems", "Oil Systems", "Chemical Process", "Pipeline Protection"],
+      "applications": [
+        "Water Systems",
+        "Oil Systems",
+        "Chemical Process",
+        "Pipeline Protection"
+      ],
       "featured": true
     },
     {
@@ -827,7 +1196,12 @@
       "category": "Sight Glasses",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Full View Sight Glass Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 100mm. Tempered glass.",
-      "applications": ["Process Monitoring", "Flow Indication", "Chemical Plants", "Food & Beverage"],
+      "applications": [
+        "Process Monitoring",
+        "Flow Indication",
+        "Chemical Plants",
+        "Food & Beverage"
+      ],
       "featured": true
     },
     {
@@ -837,7 +1211,12 @@
       "category": "Sight Glasses",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Investment Cast Double Window Sight Glass Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 100mm. Dual viewing windows.",
-      "applications": ["Process Monitoring", "Flow Indication", "Chemical Plants", "Pharmaceutical"],
+      "applications": [
+        "Process Monitoring",
+        "Flow Indication",
+        "Chemical Plants",
+        "Pharmaceutical"
+      ],
       "featured": true
     },
     {
@@ -847,7 +1226,12 @@
       "category": "Sight Glasses",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Full View Sight Glass Barstock PN10/PN16. CI/MS/SS construction. Sizes 40mm to 200mm. Tempered glass.",
-      "applications": ["Process Monitoring", "Flow Indication", "Water Systems", "Industrial Process"],
+      "applications": [
+        "Process Monitoring",
+        "Flow Indication",
+        "Water Systems",
+        "Industrial Process"
+      ],
       "featured": true
     },
     {
@@ -857,7 +1241,12 @@
       "category": "Sight Glasses",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Gauge Glass Cock Set for level indication. Sizes 1/2\" to 1\". MS/SS construction. For boiler and tank level monitoring.",
-      "applications": ["Level Indication", "Boiler Monitoring", "Tank Level", "Steam Systems"],
+      "applications": [
+        "Level Indication",
+        "Boiler Monitoring",
+        "Tank Level",
+        "Steam Systems"
+      ],
       "featured": true
     },
     {
@@ -867,7 +1256,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Polypropylene Ball Valve Flange End PN10. Sizes 20mm to 110mm. Corrosion resistant. For chemical and water applications.",
-      "applications": ["Chemical Process", "Water Treatment", "Corrosive Media", "Pharmaceutical"],
+      "applications": [
+        "Chemical Process",
+        "Water Treatment",
+        "Corrosive Media",
+        "Pharmaceutical"
+      ],
       "featured": true
     },
     {
@@ -877,7 +1271,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Polypropylene Foot Valve Flange End PN10. Sizes 25mm to 100mm. For suction lines and pump protection.",
-      "applications": ["Pump Suction", "Water Treatment", "Chemical Transfer", "Tank Bottom"],
+      "applications": [
+        "Pump Suction",
+        "Water Treatment",
+        "Chemical Transfer",
+        "Tank Bottom"
+      ],
       "featured": true
     },
     {
@@ -887,7 +1286,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Polypropylene Non Return Valve Flange End PN10. Sizes 25mm to 100mm. Spring loaded disc design.",
-      "applications": ["Chemical Process", "Water Treatment", "Pump Protection", "Corrosive Media"],
+      "applications": [
+        "Chemical Process",
+        "Water Treatment",
+        "Pump Protection",
+        "Corrosive Media"
+      ],
       "featured": true
     },
     {
@@ -897,7 +1301,12 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Iron Gate Valve Flange End Class 125. BS 5150 compliant. Sizes 25mm to 300mm. Rising stem design.",
-      "applications": ["Water Systems", "Municipal Water", "Building Services", "HVAC"],
+      "applications": [
+        "Water Systems",
+        "Municipal Water",
+        "Building Services",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -907,7 +1316,12 @@
       "category": "Globe Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Iron Globe Valve Flange End Class 125. BS 5152 compliant. Sizes 25mm to 300mm. For throttling service.",
-      "applications": ["Water Systems", "Steam Systems", "HVAC", "Building Services"],
+      "applications": [
+        "Water Systems",
+        "Steam Systems",
+        "HVAC",
+        "Building Services"
+      ],
       "featured": true
     },
     {
@@ -917,7 +1331,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Cast Iron Check Valve Flange End Class 125. BS 5153 compliant. Sizes 25mm to 300mm. Swing type design.",
-      "applications": ["Water Systems", "Municipal Water", "Pump Protection", "HVAC"],
+      "applications": [
+        "Water Systems",
+        "Municipal Water",
+        "Pump Protection",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -927,7 +1346,12 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Stainless Steel Gate Valve Flange End Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 300mm. Corrosion resistant.",
-      "applications": ["Chemical Process", "Pharmaceutical", "Food & Beverage", "Corrosive Media"],
+      "applications": [
+        "Chemical Process",
+        "Pharmaceutical",
+        "Food & Beverage",
+        "Corrosive Media"
+      ],
       "featured": true
     },
     {
@@ -937,7 +1361,12 @@
       "category": "Globe Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Stainless Steel Globe Valve Flange End Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 300mm. For throttling.",
-      "applications": ["Chemical Process", "Pharmaceutical", "Food & Beverage", "Steam Systems"],
+      "applications": [
+        "Chemical Process",
+        "Pharmaceutical",
+        "Food & Beverage",
+        "Steam Systems"
+      ],
       "featured": true
     },
     {
@@ -947,7 +1376,12 @@
       "category": "Check Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Stainless Steel Check Valve Flange End Class 150. ASTM A351 CF8/CF8M. Sizes 25mm to 300mm. Swing type.",
-      "applications": ["Chemical Process", "Pharmaceutical", "Food & Beverage", "Pump Protection"],
+      "applications": [
+        "Chemical Process",
+        "Pharmaceutical",
+        "Food & Beverage",
+        "Pump Protection"
+      ],
       "featured": true
     },
     {
@@ -957,7 +1391,12 @@
       "category": "Diaphragm Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Diaphragm Valve Weir Type. CI/SS body with EPDM/PTFE diaphragm. Sizes 15mm to 100mm. For corrosive media.",
-      "applications": ["Chemical Process", "Pharmaceutical", "Water Treatment", "Corrosive Media"],
+      "applications": [
+        "Chemical Process",
+        "Pharmaceutical",
+        "Water Treatment",
+        "Corrosive Media"
+      ],
       "featured": true
     },
     {
@@ -967,7 +1406,12 @@
       "category": "Diaphragm Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Diaphragm Valve Straight Through Type. CI/SS body. Sizes 15mm to 100mm. Full bore design.",
-      "applications": ["Slurry Handling", "Mining", "Wastewater", "Abrasive Media"],
+      "applications": [
+        "Slurry Handling",
+        "Mining",
+        "Wastewater",
+        "Abrasive Media"
+      ],
       "featured": true
     },
     {
@@ -977,7 +1421,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Plug Valve Lubricated Type Class 150/300. WCB/SS construction. Sizes 25mm to 300mm. For on-off service.",
-      "applications": ["Oil & Gas", "Petrochemical", "Refinery", "Pipeline"],
+      "applications": [
+        "Oil & Gas",
+        "Petrochemical",
+        "Refinery",
+        "Pipeline"
+      ],
       "featured": true
     },
     {
@@ -987,7 +1436,12 @@
       "category": "Pinch Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Pinch Valve Sleeve Type. Natural rubber/EPDM sleeve. Sizes 25mm to 300mm. For slurry and abrasive media.",
-      "applications": ["Slurry Handling", "Mining", "Wastewater", "Powder Handling"],
+      "applications": [
+        "Slurry Handling",
+        "Mining",
+        "Wastewater",
+        "Powder Handling"
+      ],
       "featured": true
     },
     {
@@ -997,7 +1451,12 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Control Valve with Pneumatic Actuator. Globe/Angle/Butterfly types. Sizes 15mm to 300mm. For process control.",
-      "applications": ["Process Control", "Chemical Plants", "Oil & Gas", "Power Plants"],
+      "applications": [
+        "Process Control",
+        "Chemical Plants",
+        "Oil & Gas",
+        "Power Plants"
+      ],
       "featured": true
     },
     {
@@ -1007,7 +1466,12 @@
       "category": "Control Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Control Valve with Electric Actuator. Globe/Angle/Butterfly types. Sizes 15mm to 300mm. For automated control.",
-      "applications": ["Process Automation", "Chemical Plants", "Water Treatment", "HVAC"],
+      "applications": [
+        "Process Automation",
+        "Chemical Plants",
+        "Water Treatment",
+        "HVAC"
+      ],
       "featured": true
     },
     {
@@ -1017,7 +1481,12 @@
       "category": "Gate Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Pressure Seal Gate Valve Class 600/900/1500. ASTM A216 WCB. Sizes 50mm to 600mm. High pressure design.",
-      "applications": ["High Pressure", "Power Plants", "Oil & Gas", "Petrochemical"],
+      "applications": [
+        "High Pressure",
+        "Power Plants",
+        "Oil & Gas",
+        "Petrochemical"
+      ],
       "featured": true
     },
     {
@@ -1027,7 +1496,12 @@
       "category": "Globe Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Pressure Seal Globe Valve Class 600/900/1500. ASTM A216 WCB. Sizes 50mm to 600mm. High pressure throttling.",
-      "applications": ["High Pressure", "Power Plants", "Oil & Gas", "Steam Systems"],
+      "applications": [
+        "High Pressure",
+        "Power Plants",
+        "Oil & Gas",
+        "Steam Systems"
+      ],
       "featured": true
     },
     {
@@ -1036,8 +1510,13 @@
       "shortName": "Cryogenic Ball Valve",
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
-      "description": "Cryogenic Ball Valve for LNG/LPG. Extended stem design. Sizes 15mm to 300mm. Temperature -196°C to +80°C.",
-      "applications": ["LNG", "LPG", "Cryogenic Service", "Gas Processing"],
+      "description": "Cryogenic Ball Valve for LNG/LPG. Extended stem design. Sizes 15mm to 300mm. Temperature -196\u00b0C to +80\u00b0C.",
+      "applications": [
+        "LNG",
+        "LPG",
+        "Cryogenic Service",
+        "Gas Processing"
+      ],
       "featured": true
     },
     {
@@ -1047,7 +1526,12 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Fire Safe Ball Valve API 607 certified. WCB/SS construction. Sizes 15mm to 300mm. For fire protection.",
-      "applications": ["Oil & Gas", "Petrochemical", "Refinery", "Fire Protection"],
+      "applications": [
+        "Oil & Gas",
+        "Petrochemical",
+        "Refinery",
+        "Fire Protection"
+      ],
       "featured": true
     },
     {
@@ -1057,8 +1541,540 @@
       "category": "Quarter-Turn Valves",
       "image": "assets/Valves and Projects/hero_image.jpeg",
       "description": "Trunnion Mounted Ball Valve Class 150-2500. API 6D compliant. Sizes 50mm to 600mm. For high pressure.",
-      "applications": ["Oil & Gas", "Pipeline", "Petrochemical", "High Pressure"],
+      "applications": [
+        "Oil & Gas",
+        "Pipeline",
+        "Petrochemical",
+        "High Pressure"
+      ],
       "featured": true
+    },
+    {
+      "id": "boss-gun-metal-bronze-gate-v-al-ve",
+      "name": "BOSS Gun  Metal/Bronze  GATE V AL VE",
+      "shortName": "Gun  Metal/Bronze  GATE V AL VE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE GATE VALVE  Flanged ends Standard Pattern  to  BS-10 Table 'D'",
+      "applications": [
+        "Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-gun-metal",
+      "name": "BOSS Gun Metal",
+      "shortName": "Gun Metal",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE  Lockable Type Flanged ends BS-10  Table 'D'",
+      "applications": [
+        "Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-gun-metal-gate-valve-isi-marked",
+      "name": "BOSS BOSS GUN METAL GATE VALVE ISI MARKED",
+      "shortName": "GUN METAL GATE VALVE ISI MARKED",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE ISI MARKED  Flanged Ends",
+      "applications": [
+        "Industrial Systems"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-cast-iron-ball-valve",
+      "name": "BOSS BOSS CAST IRON BALL VALVE",
+      "shortName": "CAST IRON BALL VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON BALL VALVE  Screwed Ends / Flanged Ends  TEST  & SUITABILITY   TEST  PRESSURE:  300 Psig  Hyd.  SUITABLE : Water & Oil.",
+      "applications": [
+        "Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-valve-s",
+      "name": "BOSS VALVE , S",
+      "shortName": "VALVE , S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE BALL VALVE  Screwed Ends with S.S. working parts  TEST  & SUITABILITY   TEST PRESSURE: 500 PSIG HYD.  SUITABLE: Water, Steam & oil  B O S S  \u0e2a \" \u0e15 $",
+      "applications": [
+        "Water, Steam",
+        "oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-bronze-double-disc-type",
+      "name": "BOSS BOSS BRONZE DOUBLE DISC TYPE",
+      "shortName": "BRONZE DOUBLE DISC TYPE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE DOUBLE DISC TYPE  TANKER VALVE Medium Pattern  No. 570  H-1  DESCRIPTION   BOSS BRONZE DOUBLE DISC TYPE  TANKER VALVE Heavy Pattern  No. 580  H-2  MALERIA  Name  of  P a r t s / Name of Parts Name  of  P a r t s NUT M. S. I S :1367 - 1967  WASHER M.S. IS :1367 - 1967  HAND WHEEL CAST IRON IS - 210 FG 200  SPINDLE FORGED BRASS I S 6912 FLB  GLAND NUT BRONZE I S : 318 LTB2   GLAND BRONZE I S : 318 LTS2  GLAND PACKING ASBEST OS IS : 4687  STUFFING BOX BRONZE IS : 318 LTB2  BONNET BRONZE I S : 318 LTB2  BODY BRONZE IS : 318 LTB2  STEM TEE FORGED BRASS IS : 6912 FLB  WEDGE BRONZE IS : 318 LTB2",
+      "applications": [
+        "Petrol",
+        "Diseal."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-t-anker-v-al-ve",
+      "name": "BOSS Bronze  T ANKER V AL VE",
+      "shortName": "Bronze  T ANKER V AL VE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE DOUBLE DISC TYPE  TANKER VALVE Extra Heavy Pattern  No. 590 Class - 1",
+      "applications": [
+        "Petrol",
+        "Diseal."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-horizontal-lift",
+      "name": "BOSS Bronze  HORIZONTAL LIFT",
+      "shortName": "Bronze  HORIZONTAL LIFT",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE EXTRA HEAVY  HORIZONTAL LIFT CHECK VALVE  Flanged Ends Table 'H'  BOSS",
+      "applications": [
+        "Steam, Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-cast-iron-globe",
+      "name": "BOSS BOSS CAST IRON GLOBE",
+      "shortName": "CAST IRON GLOBE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON GLOBE  STEAM STOP VALVE  Flanged Ends PN -16 Standard pattern o / s &  yoke type rising stem & back seat arrangement  with renewable 13% cr SS Hardend (Aisi 410)  seat & stem. Hand wheel operated  Max. temp. 428\u00b0C  (225\u00b0C)  TEST  & SUITABILITY   Body Test Pressure : 370 Psig Hyd.  (26kgf/Cm'g Hyd.)  Steam Test Pressure : 150 Psig. Hyd.  SUITABLE: Steam & Water.",
+      "applications": [
+        "Steam",
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-cast-iron-junction",
+      "name": "BOSS BOSS CAST IRON JUNCTION",
+      "shortName": "CAST IRON JUNCTION",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON JUNCTION  STEAM STOP VALVE (RIGHT ANGLE PATTERN)  Flanged Ends Bolted cover outside screw  yoke type rising stem with back seat arrangement  with renewable S S Hardend & stem as p e r  DIN 2533  Rf  (PN-16)  TEST  & SUITABILITY   Body Test Pressure : 370 Psig Hyd.  (26kgf/Cm'g Hyd.)  Steam Test Pressure : 185 Psig.  SUITABLE: Steam.",
+      "applications": [
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-cast-steel-parallel-slide-blow-off-valve",
+      "name": "BOSS Cast Steel Parallel Slide Blow off valve",
+      "shortName": "Cast Steel Parallel Slide Blow off valve",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST STEEL PARALLEL BLOW OFF VALVE  Rack & pinion with monel/S.S. seats, supplied with  operating key. Flanged ends as per B S Table 'J'",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-y-type-strainer",
+      "name": "BOSS Bronze  \"Y' TYPE STRAINER",
+      "shortName": "Bronze  \"Y' TYPE STRAINER",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST STEEL'Y' TYPE STRAINER  Flanged Ends to B S 10 Table 'J'With  Perforated Stainless Steel (AISI 304)  Sheet Screen",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-cast-iron-y-type-strainer",
+      "name": "BOSS Cast  Iron  'Y'-TYPE STRAINER",
+      "shortName": "Cast  Iron  'Y'-TYPE STRAINER",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS 'Y' TYPE STRAINER  With Stainless Steel Perforated Sheet Screen S.S. 304  Flanged ends to  BS 10  Table'F'",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-c-a-s-t-iron-y-type-strainer",
+      "name": "BOSS C a s t Iron  \"Y'-TYPE STRAINER",
+      "shortName": "C a s t Iron  \"Y'-TYPE STRAINER",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST IRON 'Y' TYPE STRAINER  With Stainless Steel Perforated Sheet Screen.  Screwed female ends to BS 21.",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-pop-type-safety-valve",
+      "name": "BOSS Bronze  Pop Type Safety Valve",
+      "shortName": "Bronze  Pop Type Safety Valve",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE POP TYPE SAFETY VALVE, SPRING LOADED  OPEN DISCHARGE OR ENCLOSED DISCHARGED  Flanged ends a s per Bs10 Table - H",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-bronze-spring-loaded-open-discharge",
+      "name": "BOSS BOSS BRONZE SPRING LOADED OPEN DISCHARGE",
+      "shortName": "BRONZE SPRING LOADED OPEN DISCHARGE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE SPRING LOADED OPEN DISCHARGE  OR ENCLOSED DISCHARGE.  Screwed male BSPT inlet. Screwed female BSP  outlet (in case of enclosed discharge)",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "b-o-s-s-boss-gun-m-e-t-a-l-b-r-o-n-z-e-wheel-valve",
+      "name": "B O S S BOSS Gun  M e t a l / B r o n z e WHEEL VALVE",
+      "shortName": "B O S S Gun  M e t a l / B r o n z e WHEEL VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE WHEEL VALVE  No. 8 Flanged Ends (Medium Pattern)  a s Per BS: 10  Table 'D'  A 007  An  ISO 9001-2000 Company  W\u00d8   L2  D\u00d8  DESCRIPTION   BOSS BRONZE ANGLE WHEEL VALVE  No. 4 Screwed Female Ends  H  BOSS  IATERIALS  Name of Parts  BODY , BONNET, DISC,  GLAND, CHECK NUT  SPINDLE  HAND WHEEL",
+      "applications": [
+        "Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-gun-metal-bronze-wheel-v-al-ve",
+      "name": "BOSS \u2022 Gun  Metal/Bronze  WHEEL V AL VE",
+      "shortName": "\u2022 Gun  Metal/Bronze  WHEEL V AL VE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE WHEEL VALVE  No. 4 Screwed Female Ends  A\u00d8!  W\u00f8   DESCRIPTION   BOSS BRONZE NEEDLE VALVE  No. 4 Screwed Female Ends  TERIALS",
+      "applications": [
+        "Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-bronze-sleeve-packed",
+      "name": "BOSS BOSS BRONZE SLEEVE PACKED",
+      "shortName": "BRONZE SLEEVE PACKED",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE SLEEVE PACKED  WATER LEVEL GAUGE  Flanged Ends to BS-10 Table 'H' with  Automatic shut of device in the  water arm.  TEST  & SUITABILITY   Body Test Pressure: 500 Psig Hyd.  SUITABLE : Steam & Water.",
+      "applications": [
+        "Steam",
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "b-o-s-s-boss-valve-s",
+      "name": "B O S S BOSS VALVE S",
+      "shortName": "B O S S VALVE S",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE SLEEVE PACKED  WATER LEVEL GAUGE  Male end with Automatic shut of   device in  the water arm.  TEST  & SUITABILITY   Body Test Pressure: 500 Psig Hyd.  SUITABLE: Steam & Water.",
+      "applications": [
+        "Steam",
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-water-level-gauge",
+      "name": "BOSS Bronze  WATER LEVEL GAUGE",
+      "shortName": "Bronze  WATER LEVEL GAUGE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE GLAND PACKED  WATER LEVEL GAUGE Flanged Ends  to  B S : 10 Table 'D'",
+      "applications": [
+        "Water",
+        "Steam"
+      ],
+      "featured": false
+    },
+    {
+      "id": "b-o-s-s-boss-bronze-water-level-gauge",
+      "name": "B O S S BOSS Bronze  WATER  LEVEL GAUGE",
+      "shortName": "B O S S Bronze  WATER  LEVEL GAUGE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE GLAND PACKING  WATER LEVEL GAUGE Screwed Male Ends",
+      "applications": [
+        "Water",
+        "Steam"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-fusible-plug",
+      "name": "BOSS Bronze  FUSIBLE PLUG",
+      "shortName": "Bronze  FUSIBLE PLUG",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE FUSIBLE PLUG  TWO PIECE DESIGN BSP TAPER THREAD.",
+      "applications": [
+        "Steam, Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-thermodynamic-steam-trap",
+      "name": "BOSS BOSS THERMODYNAMIC STEAM TRAP",
+      "shortName": "THERMODYNAMIC STEAM TRAP",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS THERMODYNAMIC STEAM TRAP  with S.S. (304) Strainer & S.S. working parts",
+      "applications": [
+        "STEAM"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-valv-e",
+      "name": "BOSS VALV E",
+      "shortName": "VALV E",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE RELIEF VALVES \u0393  \u038b  \u0354  \u0354  \u0398  \u038b  \u0368  \u0393   \u2f2d \u2f1d \u5207 \u0377",
+      "applications": [
+        "GAS, OIL, AIR AND STEAM"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-combined-cock",
+      "name": "BOSS Bronze  Combined Cock &",
+      "shortName": "Bronze  Combined Cock &",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE COMBINED COCK & FEED CHECK VALVE  Flanged ends as per Bs10 Table - H  B O S S",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss",
+      "name": "BOSS \u66f2",
+      "shortName": "\u66f2",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE INSPECTOR TEST GAUGE COCK  With Bend Threaded M20 x 1.5 connection for  inspectors gauge.",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-foot-valve",
+      "name": "BOSS Bronze  FOOT VALVE",
+      "shortName": "Bronze  FOOT VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE FOOT VALVE  with Female BSP Threads &  Synthetic Flat Rings.",
+      "applications": [
+        "Water."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-bronze-check-valve",
+      "name": "BOSS BOSS BRONZE CHECK VALVE",
+      "shortName": "BRONZE CHECK VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE CHECK VALVE  Standard Pattern, Two Pc. Design  Screwed Ends B.S.P Parallel Thread  TEST  & SUITABILITY   MAX. Hyd. Test Pressure :  21.1 Kg/cm'(300psig.)  SUITABLE: Water & Oil.  DESCRIPTION  BOSS BRONZE VERTICAL LIFT CHECK VALVE  renwable hardend stainless steel  (AISI-410) Monal Seats,  Screwed Female ends to BSP Taper.  TEST  & SUITABILITY   MAX. 250 Psig on Steam at  428\u00b0F Team  H Y D .",
+      "applications": [
+        "Water, Steam",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-gun-metal-gate-valve-heavy",
+      "name": "BOSS BOSS GUN METAL GATE VALVE (HEAVY)",
+      "shortName": "GUN METAL GATE VALVE (HEAVY)",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE (HEAVY)  Pegular Type with Rising Stem  Screwed Female Ends PN-20",
+      "applications": [
+        "Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-gun-metal-gate-valve-standard",
+      "name": "BOSS BOSS GUN METAL GATE VALVE (STANDARD)",
+      "shortName": "GUN METAL GATE VALVE (STANDARD)",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL GATE VALVE (STANDARD)  Pegular Type with Non-Rising Stem  Screwed Female Ends PN-16",
+      "applications": [
+        "Industrial Systems"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-extra-heavy-globe",
+      "name": "BOSS Bronze  EXTRA HEAVY GLOBE",
+      "shortName": "Bronze  EXTRA HEAVY GLOBE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE EXTRA HEAVY GLOBE  STEAM STOP VALVE SCREWED FEMALE ENDS  BSPT taper screwed bonnet inside,  rising stem",
+      "applications": [
+        "Water, Oil, Gas",
+        "Air. BOSS"
+      ],
+      "featured": false
+    },
+    {
+      "id": "b-o-s-s-boss-gun-metal-bronze-wheel-v-al-ve-no-5",
+      "name": "B O S S BOSS Gun  Metal/Bronze  WHEEL V AL VE NO. 5",
+      "shortName": "B O S S Gun  Metal/Bronze  WHEEL V AL VE NO. 5",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE WHEEL VALVE  No. 5 (Heavy Pattern) Screwed  Female Ends  DESCRIPTION   BOSS BRONZE WHEEL VALVE  No. 5 (Heavy Pattern) Flanged Ends  as Per BS: 10 Table 'F'  L2  D\u00d8",
+      "applications": [
+        "Water",
+        "Oil."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-parallel-slide",
+      "name": "BOSS Bronze  PARALLEL SLIDE",
+      "shortName": "Bronze  PARALLEL SLIDE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE PARALLEL SLIDE  BLOW OFF VALVE FLANGED ENDS  A s per BS-10 Table 'H' Rack and Pinion  with monal/stainless steel hardened  seats & rings. Suitable for BOP upto  250 Psig  (17.58kg2g)",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-ibr-bronze-thermodynamic",
+      "name": "BOSS IBR BRONZE THERMODYNAMIC",
+      "shortName": "IBR BRONZE THERMODYNAMIC",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS IBR BRONZE THERMODYNAMIC  STEAM TRAP  Screwed female ends & BSPT Taper  threads with integral S.S. (AISI-304)  strainer",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-bronze-union-bonnet",
+      "name": "BOSS BOSS BRONZE UNION BONNET",
+      "shortName": "BRONZE UNION BONNET",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS BRONZE UNION BONNET  WHEEL VALVE No. 9 Screwed Ends  with Hardened S.S. working parts  DESCRIPTION   BOSS BRONZE UNION BONNET  WHEEL VALVE No. 9 Flanged Ends  with Hardened S.S. working parts  \u0e15 \u0e2d % \u0e23",
+      "applications": [
+        "WATER, STEAM, AIR",
+        "OIL"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-valve",
+      "name": "BOSS VALVE",
+      "shortName": "VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL VERTICAL LIFT CHECK VALVE  Screwed Female Ends  TEST  & SUITABILITY   Class - 1  Body 1.5Mpa (15kg/c\u0442')  Seat 1.0Mpa (10kg/cm')  Time 2 Minutes  Suitable for: Water & Oil  Class - 2  2.4Mpa (24kg/\u0441\u0442')  1.6Mpa (16kg/cm')  BOSS  ISTIE",
+      "applications": [
+        "Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-boss-gun-metal-horizontal-lift-check-valve",
+      "name": "BOSS BOSS GUN METAL HORIZONTAL LIFT CHECK VALVE",
+      "shortName": "GUN METAL HORIZONTAL LIFT CHECK VALVE",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS GUN METAL HORIZONTAL LIFT CHECK VALVE  Screwed Female Ends  Conforming to  IS : 778 Duly ISI Marked  Screwed in  Bonnet, Integral seat, Guided Plug Type Disc,  Increased Lift to ensure full \ufb02ow area.",
+      "applications": [
+        "Water",
+        "Oil"
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-bronze-vertical-lift",
+      "name": "BOSS Bronze  VERTICAL LIFT",
+      "shortName": "Bronze  VERTICAL LIFT",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS IBR BRONZE VERTICAL LIFT  CHECK VALVE FLANGED ENDS AS  PER BS-10 TABLE 'H'  with renewable monal 13% C R S.S.  (AISI-410) Seat max BOP 250\u00b0Psig  428\u00b0F  ( 2 2 0 \u00b0 C ) Temp.",
+      "applications": [
+        "Water, Oil",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-b-r-o-n-z-e-vertical-lift",
+      "name": "BOSS B r o n z e VERTICAL LIFT",
+      "shortName": "B r o n z e VERTICAL LIFT",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS IBR BRONZE VERTICAL LIFT  CHECK VALVE with renewable monal  13% CR S.S. (AISI-410) Seat screwed  female ends. BSP tapper thread max  BOP  250 Psig  428\u00b0F  (220\u00b0C) Temp.",
+      "applications": [
+        "Water",
+        "Steam."
+      ],
+      "featured": false
+    },
+    {
+      "id": "boss-cast-steel",
+      "name": "BOSS CAST STEEL",
+      "shortName": "CAST STEEL",
+      "category": "BOSS Industrial Valves",
+      "image": "assets/Valves and Projects/hero_image.jpeg",
+      "description": "BOSS CAST STEEL GLOBE VALVE  PN-40 Flanged Ends",
+      "applications": [
+        "Steam, Water",
+        "Oil"
+      ],
+      "featured": false
     }
   ]
 }
