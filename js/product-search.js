@@ -189,7 +189,8 @@ function initializeSearchBar() {
     const heroSuggestionsDiv = document.getElementById('hero-search-suggestions');
 
     // Header Search Initialization
-    if (nav) {
+    // Only add header search if there is NO hero search on the page (avoid duplicate search bars)
+    if (nav && !heroSearchInput) {
         // Create search container
         const searchLi = document.createElement('li');
         searchLi.className = 'search-container';

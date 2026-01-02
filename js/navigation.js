@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const btn = dropdown.querySelector('.dropbtn');
         if (btn) {
             btn.addEventListener('click', function(e) {
-                if (window.innerWidth <= 1024) {
+                if (window.innerWidth <= 1200) {
                     // Only prevent default if clicking the icon or if we want to toggle the menu instead of following the link
                     // Usually on mobile, first click opens dropdown, second follows link. 
                     // But here we'll toggle dropdown on mobile.
@@ -55,11 +55,11 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // 5. Close menu on window resize if larger than 1024px
+    // 5. Close menu on window resize if larger than 1200px
     window.addEventListener('resize', function() {
         const menuToggle = document.querySelector('.menu-toggle');
         const overlay = document.querySelector('.nav-overlay');
-        if (window.innerWidth > 1024 && nav.classList.contains('active')) {
+        if (window.innerWidth > 1200 && nav.classList.contains('active')) {
             menuToggle.classList.remove('active');
             nav.classList.remove('active');
             overlay.classList.remove('active');
